@@ -1,0 +1,3535 @@
+[
+    {
+        "_id": 11109,
+        "ankamaId": 11109,
+        "name": "Frosteez",
+        "level": 200,
+        "type": "Cereal",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/34552.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/11109-frosteez",
+        "description": "What's surprising about this cereal is that, in addition to its resistance to Frigost's extreme climate, it gives any milk it comes into contact with a delicate chocolatey flavour.",
+        "recipe": []
+    },
+    {
+        "_id": 11500,
+        "ankamaId": 11500,
+        "name": "Frozen Icefish",
+        "level": 200,
+        "type": "Fish",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/41404.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/11500-frozen-icefish",
+        "description": "Unlike traditional Icefish, Frozen Icefish is already frozen the clue is in the name I guess, which means it can be kept for longer.",
+        "recipe": []
+    },
+    {
+        "_id": 13917,
+        "ankamaId": 13917,
+        "name": "Putchup Brain",
+        "level": 200,
+        "type": "Miscellaneous resources",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/15821.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/13917-putchup-brain",
+        "description": "There's not much to this brain, but it brings back vivid memories of the sight of your Iop uncle's brain from that day you all went to the Kanniballs' trepanning festival on Moon Island. Good times.",
+        "recipe": []
+    },
+    {
+        "_id": 13921,
+        "ankamaId": 13921,
+        "name": "Leatherball Leather",
+        "level": 200,
+        "type": "Leather",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/56668.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/13921-leatherball-leather",
+        "description": "If the Leatherball were a little smaller, it would fit into a mouth. You're so used to the World of Twelve that this image doesn’t even shock you.",
+        "recipe": []
+    },
+    {
+        "_id": 13923,
+        "ankamaId": 13923,
+        "name": "Klime's Moustache",
+        "level": 200,
+        "type": "Hair",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/54689.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/13923-klime-moustache",
+        "description": "On his days off, Klime wears a tight-fitting t-shirt that reads \"5% leather, 95% moustache\". How depleted must he be feeling right now?",
+        "recipe": []
+    },
+    {
+        "_id": 13926,
+        "ankamaId": 13926,
+        "name": "Potbellion Molar",
+        "level": 200,
+        "type": "Bone",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/47806.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/13926-potbellion-molar",
+        "description": "An eye for an eye, a tooth for a tooth - or in your case, a tooth for an uncomfortably large chunk of your right buttock.",
+        "recipe": []
+    },
+    {
+        "_id": 13932,
+        "ankamaId": 13932,
+        "name": "Skateman Brain",
+        "level": 200,
+        "type": "Miscellaneous resources",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/15827.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/13932-skateman-brain",
+        "description": "Skateman Brain is inedible - who would have thought? Well, not the Skateman any more, that's for sure.",
+        "recipe": []
+    },
+    {
+        "_id": 13938,
+        "ankamaId": 13938,
+        "name": "Nessil Molar",
+        "level": 200,
+        "type": "Bone",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/47811.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/13938-nessil-molar",
+        "description": "The last dentist who attempted to treat this tooth was found at the bottom of a lake, wearing a skirt and reeking of whisky.",
+        "recipe": []
+    },
+    {
+        "_id": 13939,
+        "ankamaId": 13939,
+        "name": "Krackal Canine",
+        "level": 200,
+        "type": "Bone",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/47812.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/13939-krackal-canine",
+        "description": "You're almost certain that this tooth is false, because it reminds you of the 'diamond' ring you gave to your sweetheart in the Astrub Inn. There was definitely a whiff of lavender about that marriage.",
+        "recipe": []
+    },
+    {
+        "_id": 13940,
+        "ankamaId": 13940,
+        "name": "Krackal Mane",
+        "level": 200,
+        "type": "Hair",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/54692.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/13940-krackal-mane",
+        "description": "The Krackal's mane is so glossy, because it's worth it.",
+        "recipe": []
+    },
+    {
+        "_id": 13944,
+        "ankamaId": 13944,
+        "name": "Thermite Carapace",
+        "level": 200,
+        "type": "Carapace",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/107736.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/13944-thermite-carapace",
+        "description": "The crafters don't yet know enough about this item for its characteristics to be revealed to potential buyers.",
+        "recipe": []
+    },
+    {
+        "_id": 13949,
+        "ankamaId": 13949,
+        "name": "Kan-O-Mat Canine",
+        "level": 200,
+        "type": "Bone",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/47814.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/13949-kan-o-mat-canine",
+        "description": "If you'd have known just how eager Kan-O-Mats are to bite dentists, you might not have killed so many of them.",
+        "recipe": []
+    },
+    {
+        "_id": 13977,
+        "ankamaId": 13977,
+        "name": "Serpulax Volva",
+        "level": 200,
+        "type": "Mushroom",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/119007.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/13977-serpulax-volva",
+        "description": "This membrane hides the Serpulax's most intimate mechanisms, but you were deeply disappointed when you tugged it away. Instead of attempting to seduce you, this mechanical handyman should have stuck to its day job.",
+        "recipe": []
+    },
+    {
+        "_id": 13992,
+        "ankamaId": 13992,
+        "name": "Nocturnowl Wing",
+        "level": 200,
+        "type": "Wing",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/104746.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/13992-nocturnowl-wing",
+        "description": "The crafters don't yet know enough about this item for its characteristics to be revealed to potential buyers.",
+        "recipe": []
+    },
+    {
+        "_id": 13993,
+        "ankamaId": 13993,
+        "name": "Nocturnowl Spike",
+        "level": 200,
+        "type": "Bone",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/47823.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/13993-nocturnowl-spike",
+        "description": "This spike acts as a lightning conductor when the Nocturnowl is struck by a bolt from the blue.",
+        "recipe": []
+    },
+    {
+        "_id": 14045,
+        "ankamaId": 14045,
+        "name": "Klime's Private Suite Key",
+        "level": 200,
+        "type": "Key",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/84721.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/14045-klime-private-suite-key",
+        "description": "The crafters don't yet know enough about this item for its characteristics to be revealed to potential buyers.",
+        "recipe": []
+    },
+    {
+        "_id": 14143,
+        "ankamaId": 14143,
+        "name": "Zipper",
+        "level": 200,
+        "type": "Garment",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/15833.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/14143-zipper",
+        "description": "The crafters don't yet know enough about this item for its characteristics to be revealed to potential buyers.",
+        "recipe": []
+    },
+    {
+        "_id": 14144,
+        "ankamaId": 14144,
+        "name": "Frozen Spores",
+        "level": 200,
+        "type": "Mushroom",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/119009.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/14144-frozen-spores",
+        "description": "If you look more closely at the fungal spores trapped in this chunk of ice, you can see some tiny pubic lice larvae in there as well. The fact that they were recovered from Missiz Freezz's private rooms is surely just an unfortunate coincidence.",
+        "recipe": []
+    },
+    {
+        "_id": 14705,
+        "ankamaId": 14705,
+        "name": "Count Harebourg Essence",
+        "level": 200,
+        "type": "Dungeon keeper essence",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/167001.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/14705-count-harebourg-essence",
+        "description": "This essence contains a part of the immense power of a dungeon keeper: the pick of the litter of monsters in the World of Twelve. Now you just have to find a use befitting such power.",
+        "recipe": [
+            {
+                "Count Harebourg's Scapula": {
+                    "ankamaId": 13994,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/13994-count-harebourg-scapula",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/47824.w48h48.png",
+                    "type": "Bone",
+                    "level": 200,
+                    "quantity": 10
+                }
+            },
+            {
+                "Count Harebourg's Bandages": {
+                    "ankamaId": 13995,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/13995-count-harebourg-bandages",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/15831.w48h48.png",
+                    "type": "Miscellaneous resources",
+                    "level": 200,
+                    "quantity": 1
+                }
+            }
+        ]
+    },
+    {
+        "_id": 14817,
+        "ankamaId": 14817,
+        "name": "Steamcrab Claw",
+        "level": 200,
+        "type": "Bone",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/47831.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/14817-steamcrab-claw",
+        "description": "If a Steamcrab offers to shake your hand… IT'S A TRAP!!",
+        "recipe": []
+    },
+    {
+        "_id": 14860,
+        "ankamaId": 14860,
+        "name": "Bartyclank Leather",
+        "level": 200,
+        "type": "Leather",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/56670.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/14860-bartyclank-leather",
+        "description": "This leather came directly from Bartyclank's tunic. The artisan who tanned and sold it had a convincing slogan: \"No animals were harmed in the making of this tunic, just the buyer.\"",
+        "recipe": []
+    },
+    {
+        "_id": 14863,
+        "ankamaId": 14863,
+        "name": "Psychlo Sock",
+        "level": 200,
+        "type": "Garment",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/164028.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/14863-psychlo-sock",
+        "description": "The crafters don't yet know enough about this item for its characteristics to be revealed to potential buyers.",
+        "recipe": []
+    },
+    {
+        "_id": 14865,
+        "ankamaId": 14865,
+        "name": "Merkator's Heart",
+        "level": 200,
+        "type": "Miscellaneous resources",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/15841.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/14865-merkator-heart",
+        "description": "This rusty heart, which once beat so strongly, has long since surrendered.",
+        "recipe": []
+    },
+    {
+        "_id": 15178,
+        "ankamaId": 15178,
+        "name": "Staruman Eyebrow",
+        "level": 200,
+        "type": "Hair",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/15877.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/15178-staruman-eyebrow",
+        "description": "Starumen are modest, the kind of guys who have tons of talents but never really talk about them. The one who used to own this eyebrow, for instance, was a master at fanning his friends by shaking his facial hair about.",
+        "recipe": []
+    },
+    {
+        "_id": 15180,
+        "ankamaId": 15180,
+        "name": "Pazpartu Key Fragment",
+        "level": 200,
+        "type": "Miscellaneous resources",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/15879.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/15180-pazpartu-key-fragment",
+        "description": "Despite repeated cries of \"THE KEY! THE KEY!!!\" and \"QUICK! QUICK!!!\" from your teammates, you only managed to grab a fragment of the Pazpartu's key. Hopefully you'll do better in the crystal dome.",
+        "recipe": []
+    },
+    {
+        "_id": 15280,
+        "ankamaId": 15280,
+        "name": "King Nidas's Palace Key",
+        "level": 200,
+        "type": "Key",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/84734.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/15280-king-nidas-palace-key",
+        "description": "The crafters don't yet know enough about this item for its characteristics to be revealed to potential buyers.",
+        "recipe": []
+    },
+    {
+        "_id": 15382,
+        "ankamaId": 15382,
+        "name": "Gein's Map",
+        "level": 200,
+        "type": "Map",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/77041.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/15382-gein-map",
+        "description": "The crafters don't yet know enough about this item for its characteristics to be revealed to potential buyers.",
+        "recipe": []
+    },
+    {
+        "_id": 15385,
+        "ankamaId": 15385,
+        "name": "Fragment of Gein's Map 3/8",
+        "level": 200,
+        "type": "Map fragment",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/77042.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/15385-fragment-gein-map-3-8",
+        "description": "The crafters don't yet know enough about this item for its characteristics to be revealed to potential buyers.",
+        "recipe": []
+    },
+    {
+        "_id": 15690,
+        "ankamaId": 15690,
+        "name": "Key to the Belly of the Whale",
+        "level": 200,
+        "type": "Key",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/84739.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/15690-key-belly-whale",
+        "description": "This key will let you go inside the enormous marine mammal known as Kideebom. However, no guides are available – you'll have to find your way around by yourself.",
+        "recipe": [
+            {
+                "Snowdrop": {
+                    "ankamaId": 11102,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/11102-snowdrop",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/35635.w48h48.png",
+                    "type": "Flower",
+                    "level": 200,
+                    "quantity": 1
+                }
+            },
+            {
+                "Aspen Wood": {
+                    "ankamaId": 11107,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/11107-aspen-wood",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/38677.w48h48.png",
+                    "type": "Wood",
+                    "level": 200,
+                    "quantity": 7
+                }
+            },
+            {
+                "Frosteez": {
+                    "ankamaId": 11109,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/11109-frosteez",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/34552.w48h48.png",
+                    "type": "Cereal",
+                    "level": 200,
+                    "quantity": 1
+                }
+            },
+            {
+                "Obsidian": {
+                    "ankamaId": 11110,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/11110-obsidian",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/39112.w48h48.png",
+                    "type": "Ore",
+                    "level": 200,
+                    "quantity": 7
+                }
+            },
+            {
+                "Verminoculate Eye": {
+                    "ankamaId": 15684,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/15684-verminoculate-eye",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/109608.w48h48.png",
+                    "type": "Eye",
+                    "level": 200,
+                    "quantity": 1
+                }
+            },
+            {
+                "Bashillus Leg": {
+                    "ankamaId": 15685,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/15685-bashillus-leg",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/103723.w48h48.png",
+                    "type": "Leg",
+                    "level": 200,
+                    "quantity": 1
+                }
+            },
+            {
+                "Bacterrible Antenna": {
+                    "ankamaId": 15686,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/15686-bacterrible-antenna",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/164046.w48h48.png",
+                    "type": "Miscellaneous resources",
+                    "level": 200,
+                    "quantity": 1
+                }
+            },
+            {
+                "Viring Shell": {
+                    "ankamaId": 15687,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/15687-viring-shell",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/111753.w48h48.png",
+                    "type": "Shell",
+                    "level": 200,
+                    "quantity": 1
+                }
+            }
+        ]
+    },
+    {
+        "_id": 15705,
+        "ankamaId": 15705,
+        "name": "Protoz'orror Essence",
+        "level": 200,
+        "type": "Dungeon keeper essence",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/167001.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/15705-protoz-orror-essence",
+        "description": "This essence contains a part of the immense power of a dungeon keeper: the pick of the litter of monsters in the World of Twelve. Now you just have to find a use befitting such power.",
+        "recipe": [
+            {
+                "Protoz'orror Nucleus": {
+                    "ankamaId": 15689,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/15689-protoz-orror-nucleus",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/164047.w48h48.png",
+                    "type": "Miscellaneous resources",
+                    "level": 200,
+                    "quantity": 10
+                }
+            }
+        ]
+    },
+    {
+        "_id": 15716,
+        "ankamaId": 15716,
+        "name": "Ickyrus Talon",
+        "level": 200,
+        "type": "Leg",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/15896.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/15716-ickyrus-talon",
+        "description": "The crafters don't yet know enough about this item for its characteristics to be revealed to potential buyers.",
+        "recipe": []
+    },
+    {
+        "_id": 15720,
+        "ankamaId": 15720,
+        "name": "Wastrel Feather",
+        "level": 200,
+        "type": "Feather",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/15900.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/15720-wastrel-feather",
+        "description": "Wastrels sometimes use these surprisingly sharp feathers as projectiles, but their most common use is as torture instruments. Bare feet of the world, beware.",
+        "recipe": []
+    },
+    {
+        "_id": 15811,
+        "ankamaId": 15811,
+        "name": "Fugitive Loop",
+        "level": 200,
+        "type": "Garment",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/15918.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/15811-fugitive-loop",
+        "description": "The crafters don't yet know enough about this item for its characteristics to be revealed to potential buyers.",
+        "recipe": []
+    },
+    {
+        "_id": 16031,
+        "ankamaId": 16031,
+        "name": "Fragment of Scampihorse's Map 7/8",
+        "level": 200,
+        "type": "Map fragment",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/77042.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/16031-fragment-scampihorse-map-7-8",
+        "description": "The crafters don't yet know enough about this item for its characteristics to be revealed to potential buyers.",
+        "recipe": []
+    },
+    {
+        "_id": 16034,
+        "ankamaId": 16034,
+        "name": "Fragment of Scampihorse's Map 5/8",
+        "level": 200,
+        "type": "Map fragment",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/77042.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/16034-fragment-scampihorse-map-5-8",
+        "description": "The crafters don't yet know enough about this item for its characteristics to be revealed to potential buyers.",
+        "recipe": []
+    },
+    {
+        "_id": 17118,
+        "ankamaId": 17118,
+        "name": "King Kongoku’s Hide",
+        "level": 200,
+        "type": "Skin",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/59648.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/17118-king-kongoku-hide",
+        "description": "You took out its heart, but the powerful monster was still dangerous even in death and could have made your skull explode in a sudden shock.",
+        "recipe": []
+    },
+    {
+        "_id": 17222,
+        "ankamaId": 17222,
+        "name": "Fragment of Kongoku's Map 1/8",
+        "level": 200,
+        "type": "Map fragment",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/77042.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/17222-fragment-kongoku-map-1-8",
+        "description": "The crafters don't yet know enough about this item for its characteristics to be revealed to potential buyers.",
+        "recipe": []
+    },
+    {
+        "_id": 17225,
+        "ankamaId": 17225,
+        "name": "Fragment of Kongoku's Map 4/8",
+        "level": 200,
+        "type": "Map fragment",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/77042.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/17225-fragment-kongoku-map-4-8",
+        "description": "The crafters don't yet know enough about this item for its characteristics to be revealed to potential buyers.",
+        "recipe": []
+    },
+    {
+        "_id": 17226,
+        "ankamaId": 17226,
+        "name": "Fragment of Kongoku's Map 5/8",
+        "level": 200,
+        "type": "Map fragment",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/77042.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/17226-fragment-kongoku-map-5-8",
+        "description": "The crafters don't yet know enough about this item for its characteristics to be revealed to potential buyers.",
+        "recipe": []
+    },
+    {
+        "_id": 17233,
+        "ankamaId": 17233,
+        "name": "Fragment of Voldelor's Map 2/8",
+        "level": 200,
+        "type": "Map fragment",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/77042.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/17233-fragment-voldelor-map-2-8",
+        "description": "The crafters don't yet know enough about this item for its characteristics to be revealed to potential buyers.",
+        "recipe": []
+    },
+    {
+        "_id": 17234,
+        "ankamaId": 17234,
+        "name": "Fragment of Voldelor's Map 3/8",
+        "level": 200,
+        "type": "Map fragment",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/77042.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/17234-fragment-voldelor-map-3-8",
+        "description": "The crafters don't yet know enough about this item for its characteristics to be revealed to potential buyers.",
+        "recipe": []
+    },
+    {
+        "_id": 17624,
+        "ankamaId": 17624,
+        "name": "Queen's Belt",
+        "level": 200,
+        "type": "Garment",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/15032.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/17624-queen-belt",
+        "description": "A belt made out of fur, fit for a queen.",
+        "recipe": []
+    },
+    {
+        "_id": 17625,
+        "ankamaId": 17625,
+        "name": "King Playa's Seal",
+        "level": 200,
+        "type": "Miscellaneous resources",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/164089.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/17625-king-playa-seal",
+        "description": "When in ownership of this seal, it is possible to sign any document in the guise of King Playa. If he had the slightest bit of authority, you could go wild!",
+        "recipe": []
+    },
+    {
+        "_id": 17647,
+        "ankamaId": 17647,
+        "name": "Fragment of Atcham's Map 4/8",
+        "level": 200,
+        "type": "Map fragment",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/77042.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/17647-fragment-atcham-map-4-8",
+        "description": "The crafters don't yet know enough about this item for its characteristics to be revealed to potential buyers.",
+        "recipe": []
+    },
+    {
+        "_id": 17649,
+        "ankamaId": 17649,
+        "name": "Fragment of Atcham's Map 6/8",
+        "level": 200,
+        "type": "Map fragment",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/77042.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/17649-fragment-atcham-map-6-8",
+        "description": "The crafters don't yet know enough about this item for its characteristics to be revealed to potential buyers.",
+        "recipe": []
+    },
+    {
+        "_id": 17713,
+        "ankamaId": 17713,
+        "name": "Great Game Catzino Token",
+        "level": 200,
+        "type": "Miscellaneous resources",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/126077.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/17713-great-game-catzino-token",
+        "description": "Do you feel lucky? Well do you?",
+        "recipe": []
+    },
+    {
+        "_id": 17867,
+        "ankamaId": 17867,
+        "name": "Brass Propeller",
+        "level": 200,
+        "type": "Miscellaneous resources",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/164097.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/17867-brass-propeller",
+        "description": "This propeller won't allow you to fly away, but will however let you go down to explore the ocean depths. Don't look disappointed; you'll find another chance to take off.",
+        "recipe": []
+    },
+    {
+        "_id": 17869,
+        "ankamaId": 17869,
+        "name": "Jitter Filter",
+        "level": 200,
+        "type": "Miscellaneous resources",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/164099.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/17869-jitter-filter",
+        "description": "As its names shows, this filter is supposed to catch all of your fears, from the most intimate to the most elementary. You have trouble conceiving that such a thing can be possible, but then again, you have trouble conceiving many things.",
+        "recipe": []
+    },
+    {
+        "_id": 17970,
+        "ankamaId": 17970,
+        "name": "Mol Usk Slobber",
+        "level": 200,
+        "type": "Miscellaneous resources",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/15937.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/17970-mol-usk-slobber",
+        "description": "Mol Usk Slobber has curative properties, which help certain wounds heal. The only side effect is that it changes the colour of the skin where it's applied. Some people use it as Al Howin makeup.",
+        "recipe": []
+    },
+    {
+        "_id": 17976,
+        "ankamaId": 17976,
+        "name": "Meno's Hair",
+        "level": 200,
+        "type": "Hair",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/54707.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/17976-meno-hair",
+        "description": "Where exactly did you pluck this hair from?",
+        "recipe": []
+    },
+    {
+        "_id": 17988,
+        "ankamaId": 17988,
+        "name": "Angular Stone",
+        "level": 200,
+        "type": "Stone",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/51499.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/17988-angular-stone",
+        "description": "An important piece for the Servants of the Unspeakable, this stone seems linked to another dimension.",
+        "recipe": []
+    },
+    {
+        "_id": 17992,
+        "ankamaId": 17992,
+        "name": "Salikronia",
+        "level": 200,
+        "type": "Plant",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/36653.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/17992-salikronia",
+        "description": "This plant is also known as the sea gherkin, but alchemists prefer to use the term Salikronia. That obviously sounds more classy and mysterious to uncultured people.",
+        "recipe": []
+    },
+    {
+        "_id": 17994,
+        "ankamaId": 17994,
+        "name": "Limpet",
+        "level": 200,
+        "type": "Fish",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/41419.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/17994-limpet",
+        "description": "Sufokian Limpet has abandoned the rocky foreshores to seek refuge in the depths of the bay. To live happily, it lives in hiding… but not well-hidden enough to escape from you.",
+        "recipe": []
+    },
+    {
+        "_id": 18318,
+        "ankamaId": 18318,
+        "name": "Shimmering Silk",
+        "level": 200,
+        "type": "Fabric",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/136078.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/18318-shimmering-silk",
+        "description": "This very special cloth would is used to craft the legendary Dofusteuse.",
+        "recipe": []
+    },
+    {
+        "_id": 18441,
+        "ankamaId": 18441,
+        "name": "Castuc Cocktail",
+        "level": 200,
+        "type": "Miscellaneous resources",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/164122.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/18441-castuc-cocktail",
+        "description": "This cocktail made from Nonexistent Water and Castuc pulp is essential for crafting a quality Dorado Hat: it allows the tailor to quench their thirst while working.",
+        "recipe": []
+    },
+    {
+        "_id": 18539,
+        "ankamaId": 18539,
+        "name": "Mumystic Garnet",
+        "level": 200,
+        "type": "Precious stone",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/50727.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/18539-mumystic-garnet",
+        "description": "These garnets keep levitating with the magic permeating them; it remains to be seen what purpose they serve.",
+        "recipe": []
+    },
+    {
+        "_id": 18540,
+        "ankamaId": 18540,
+        "name": "Sneerena Golden Eyelid",
+        "level": 200,
+        "type": "Miscellaneous resources",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/15953.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/18540-sneerena-golden-eyelid",
+        "description": "This is an accessory which will soon be all the rage at Klime's masquerades.",
+        "recipe": []
+    },
+    {
+        "_id": 18541,
+        "ankamaId": 18541,
+        "name": "Scratchotep Ear",
+        "level": 200,
+        "type": "Ear",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/106642.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/18541-scratchotep-ear",
+        "description": "The shape and texture of this ear make it a clean and therefore reusable cotton bud. You won't need to buy them in packets of one hundred any more.",
+        "recipe": []
+    },
+    {
+        "_id": 18543,
+        "ankamaId": 18543,
+        "name": "Chrysonefantine Scarab",
+        "level": 200,
+        "type": "Precious stone",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/15954.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/18543-chrysonefantine-scarab",
+        "description": "Hit a Iop's skull, and it'll make this item start to resonate. The sound produced varies depending on the size of the skull and its emptiness.",
+        "recipe": []
+    },
+    {
+        "_id": 19070,
+        "ankamaId": 19070,
+        "name": "Kerighoul Wing",
+        "level": 200,
+        "type": "Wing",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/104751.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/19070-kerighoul-wing",
+        "description": "You may be wondering how these wings manage to cope with the weight of a Kerighoul. It's another question to add to your collection of futile questions to which you'll never find an answer. How will you sleep at night?",
+        "recipe": []
+    },
+    {
+        "_id": 19071,
+        "ankamaId": 19071,
+        "name": "Ghouligan Eye",
+        "level": 200,
+        "type": "Eye",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/109617.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/19071-ghouligan-eye",
+        "description": "Just like Chafers, ghouls can switch their eyes without injury. Therefore, they sometimes use them to barter for certain favours. More and more ghouls only have one eye left, which is of real delight to the eye patch sellers of Forfut.",
+        "recipe": []
+    },
+    {
+        "_id": 19074,
+        "ankamaId": 19074,
+        "name": "Red Ghoulobule",
+        "level": 200,
+        "type": "Miscellaneous resources",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/164139.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/19074-red-ghoulobule",
+        "description": "A dash of idiocy, a drop of frivolity, a few grains of nonchalance: it's actually rather difficult to tell ghoul blood apart from Iop blood.",
+        "recipe": []
+    },
+    {
+        "_id": 19233,
+        "ankamaId": 19233,
+        "name": "Encapsulated Soul-Blaze",
+        "level": 200,
+        "type": "Miscellaneous resources",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/15984.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/19233-encapsulated-soul-blaze",
+        "description": "Ghost hunters go crazy for this item, which they like to keep on their mantelpiece.",
+        "recipe": []
+    },
+    {
+        "_id": 19236,
+        "ankamaId": 19236,
+        "name": "Spirigneous Remains",
+        "level": 200,
+        "type": "Miscellaneous resources",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/15985.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/19236-spirigneous-remains",
+        "description": "This Spirigneous did not meet a happy end.",
+        "recipe": []
+    },
+    {
+        "_id": 19406,
+        "ankamaId": 19406,
+        "name": "Zombrute Flesh",
+        "level": 200,
+        "type": "Miscellaneous resources",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/111755.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/19406-zombrute-flesh",
+        "description": "This looks like ligaments connecting pieces of putrid mud together, and it's rubbery. With any luck, it'll make for a chewing gum that doesn't lose its taste after ten minutes.",
+        "recipe": []
+    },
+    {
+        "_id": 19514,
+        "ankamaId": 19514,
+        "name": "Key to Solar's Tower",
+        "level": 200,
+        "type": "Key",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/84765.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/19514-key-solar-tower",
+        "description": "Thieves misuse this key as a skeleton key, since it tends to melt all locks into which it is inserted.",
+        "recipe": [
+            {
+                "Snowdrop": {
+                    "ankamaId": 11102,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/11102-snowdrop",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/35635.w48h48.png",
+                    "type": "Flower",
+                    "level": 200,
+                    "quantity": 1
+                }
+            },
+            {
+                "Aspen Wood": {
+                    "ankamaId": 11107,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/11107-aspen-wood",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/38677.w48h48.png",
+                    "type": "Wood",
+                    "level": 200,
+                    "quantity": 7
+                }
+            },
+            {
+                "Frosteez": {
+                    "ankamaId": 11109,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/11109-frosteez",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/34552.w48h48.png",
+                    "type": "Cereal",
+                    "level": 200,
+                    "quantity": 1
+                }
+            },
+            {
+                "Obsidian": {
+                    "ankamaId": 11110,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/11110-obsidian",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/39112.w48h48.png",
+                    "type": "Ore",
+                    "level": 200,
+                    "quantity": 7
+                }
+            },
+            {
+                "Reallinotseen Vertebra": {
+                    "ankamaId": 19400,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/19400-reallinotseen-vertebra",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/47862.w48h48.png",
+                    "type": "Bone",
+                    "level": 200,
+                    "quantity": 5
+                }
+            },
+            {
+                "Relentliss Tongue": {
+                    "ankamaId": 19401,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/19401-relentliss-tongue",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/164145.w48h48.png",
+                    "type": "Miscellaneous resources",
+                    "level": 200,
+                    "quantity": 5
+                }
+            },
+            {
+                "Dedbomb Grenade": {
+                    "ankamaId": 19402,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/19402-dedbomb-grenade",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/114008.w48h48.png",
+                    "type": "Miscellaneous resources",
+                    "level": 200,
+                    "quantity": 5
+                }
+            },
+            {
+                "Hintense Eye": {
+                    "ankamaId": 19403,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/19403-hintense-eye",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/109618.w48h48.png",
+                    "type": "Eye",
+                    "level": 200,
+                    "quantity": 5
+                }
+            }
+        ]
+    },
+    {
+        "_id": 19912,
+        "ankamaId": 19912,
+        "name": "Anerice the Shushess Essence",
+        "level": 200,
+        "type": "Dungeon keeper essence",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/167001.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/19912-anerice-shushess-essence",
+        "description": "This essence contains a part of the immense power of a dungeon keeper: the pick of the litter of monsters in the World of Twelve. Now you just have to find a use befitting such power.",
+        "recipe": [
+            {
+                "Anerice's Spike": {
+                    "ankamaId": 19068,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/19068-anerice-spike",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/164137.w48h48.png",
+                    "type": "Miscellaneous resources",
+                    "level": 200,
+                    "quantity": 10
+                }
+            }
+        ]
+    },
+    {
+        "_id": 19914,
+        "ankamaId": 19914,
+        "name": "Dazahk Freezammer Essence",
+        "level": 200,
+        "type": "Dungeon keeper essence",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/167001.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/19914-dazahk-freezammer-essence",
+        "description": "This essence contains a part of the immense power of a dungeon keeper: the pick of the litter of monsters in the World of Twelve. Now you just have to find a use befitting such power.",
+        "recipe": [
+            {
+                "Dazahk Freezammer's Epaulettes": {
+                    "ankamaId": 19969,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/19969-dazahk-freezammer-epaulettes",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/25162.w48h48.png",
+                    "type": "Garment",
+                    "level": 200,
+                    "quantity": 10
+                }
+            }
+        ]
+    },
+    {
+        "_id": 19972,
+        "ankamaId": 19972,
+        "name": "Beardrammer Beard Hair",
+        "level": 200,
+        "type": "Hair",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/54713.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/19972-beardrammer-beard-hair",
+        "description": "You'd almost think that if Stubbyobs are so obsessed with their beards, it's because they'd look like children without them.",
+        "recipe": []
+    },
+    {
+        "_id": 19974,
+        "ankamaId": 19974,
+        "name": "Warmonbeer Tooth",
+        "level": 200,
+        "type": "Bone",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/47863.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/19974-warmonbeer-tooth",
+        "description": "Given their unfortunate habit of biting their opponents, Stubbyobs need to have irreproachable dental hygiene: altering the taste of their beer by leaving residue from previous victims in their mouths is out of the question.",
+        "recipe": []
+    },
+    {
+        "_id": 20452,
+        "ankamaId": 20452,
+        "name": "Andespite",
+        "level": 200,
+        "type": "Stone",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/39400.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/20452-andespite",
+        "description": "It is said that this volcanic rock comes from a faraway island in the Archipelago of Scales. Known to the Paztek as Shibaparta, and considered sacred, it is a valuable resource that can be used as a currency.",
+        "recipe": []
+    },
+    {
+        "_id": 20651,
+        "ankamaId": 20651,
+        "name": "Legend of Death-Defying",
+        "level": 200,
+        "type": "Dream Resources",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/164617.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/20651-legend-death-defying",
+        "description": "From dream to reality, memories become legends. This one tells part of the saga of Death-Defying.",
+        "recipe": []
+    },
+    {
+        "_id": 20653,
+        "ankamaId": 20653,
+        "name": "Legend of a Thousand Leagues",
+        "level": 200,
+        "type": "Dream Resources",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/164619.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/20653-legend-thousand-leagues",
+        "description": "From dream to reality, memories become legends. This one tells part of the saga of the thousand league boots.",
+        "recipe": []
+    },
+    {
+        "_id": 20658,
+        "ankamaId": 20658,
+        "name": "Legend of Rykke Errel",
+        "level": 200,
+        "type": "Dream Resources",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/164620.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/20658-legend-rykke-errel",
+        "description": "From dream to reality, memories become legends. This one tells part of the saga of Rykke Errel.",
+        "recipe": []
+    },
+    {
+        "_id": 20911,
+        "ankamaId": 20911,
+        "name": "Podploder Hat",
+        "level": 200,
+        "type": "Garment",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/59665.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/20911-podploder",
+        "description": "The Podploders' chef hats have always been the subject of the wildest rumours. Do they wear them to hide extra cocoa beans? Or unlikely cranial protuberances? Or worse yet, haircuts in very bad taste? Chokao alone knows.",
+        "recipe": []
+    },
+    {
+        "_id": 20974,
+        "ankamaId": 20974,
+        "name": "Pukachi Quintessence",
+        "level": 200,
+        "type": "Pet Food",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/12777.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/20974-pukachi-quintessence",
+        "description": "Used on a legendary pet, it will grant it a random offensive power.",
+        "recipe": [
+            {
+                "Pukachi Animal Legend": {
+                    "ankamaId": 20965,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/20965-pukachi-animal-legend",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/164631.w48h48.png",
+                    "type": "Dream Resources",
+                    "level": 200,
+                    "quantity": 1
+                }
+            },
+            {
+                "Time Crystal": {
+                    "ankamaId": 20969,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/20969-time-crystal",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/50728.w48h48.png",
+                    "type": "Precious stone",
+                    "level": 200,
+                    "quantity": 1
+                }
+            },
+            {
+                "Inert Egg": {
+                    "ankamaId": 20971,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/20971-inert-egg",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/105650.w48h48.png",
+                    "type": "Egg",
+                    "level": 200,
+                    "quantity": 1
+                }
+            },
+            {
+                "Nanogrine": {
+                    "ankamaId": 20972,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/20972-nanogrine",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/164634.w48h48.png",
+                    "type": "Miscellaneous resources",
+                    "level": 200,
+                    "quantity": 1
+                }
+            }
+        ]
+    },
+    {
+        "_id": 21012,
+        "ankamaId": 21012,
+        "name": "Time Loop",
+        "level": 200,
+        "type": "Miscellaneous resources",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/164627.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/21012-time-loop",
+        "description": "In theory, a loop only comes full circle when the end of the loop meets the start of the loop. But time is a reluctant matchmaker who refuses to make introductions.",
+        "recipe": []
+    },
+    {
+        "_id": 21013,
+        "ankamaId": 21013,
+        "name": "Timeless Loop",
+        "level": 200,
+        "type": "Miscellaneous resources",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/164628.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/21013-timeless-loop",
+        "description": "This is what happens when time stands still while still flowing freely.",
+        "recipe": []
+    },
+    {
+        "_id": 21212,
+        "ankamaId": 21212,
+        "name": "Cannicodyl Canine",
+        "level": 200,
+        "type": "Bone",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/47867.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/21212-cannicodyl-canine",
+        "description": "You can use this sharp tooth to cut the meat you order to go with your drink next time you visit an inn.",
+        "recipe": []
+    },
+    {
+        "_id": 22046,
+        "ankamaId": 22046,
+        "name": "Misery's Feather",
+        "level": 200,
+        "type": "Feather",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/53666.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/22046-misery-feather",
+        "description": "When you're always wanting – and going after – more, you have to be careful someone doesn't pluck your feathers…",
+        "recipe": []
+    },
+    {
+        "_id": 22048,
+        "ankamaId": 22048,
+        "name": "Starven Tongue",
+        "level": 200,
+        "type": "Miscellaneous resources",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/24277.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/22048-starven-tongue",
+        "description": "Starvens know how to use their tongues, to say the least.",
+        "recipe": []
+    },
+    {
+        "_id": 22049,
+        "ankamaId": 22049,
+        "name": "Deboning Ribs",
+        "level": 200,
+        "type": "Bone",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/47871.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/22049-deboning-ribs",
+        "description": "When correctly prepared, Deboning ribs could be mistaken for some good old Lousy Pig loins. Add a pinch of salt and pepper, and they're great! The meat's a little lean and it's technically cannibalism, but the flavour can't be beat.",
+        "recipe": []
+    },
+    {
+        "_id": 22208,
+        "ankamaId": 22208,
+        "name": "Rotten Dolid Skin",
+        "level": 200,
+        "type": "Skin",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/24271.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/22208-rotten-dolid-skin",
+        "description": "Whether you're looking for fun, or maybe just a bit mad, riding a Dolid is always a perilous exercise. As with any sporting activity, remember: practice makes perfect, and always stretch first to avoid injury. An eye for an eye, a tooth for a tooth… This shredded skin is a symbol of vengeance.",
+        "recipe": []
+    },
+    {
+        "_id": 22218,
+        "ankamaId": 22218,
+        "name": "Rhythmic Wand",
+        "level": 200,
+        "type": "Miscellaneous resources",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/15998.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/22218-rhythmic-wand",
+        "description": "This wand is useful at getting a galley working in rhythm, but can really hurt if it hits you in the eye.",
+        "recipe": []
+    },
+    {
+        "_id": 7302,
+        "ankamaId": 7302,
+        "name": "Pandora Skin",
+        "level": 200,
+        "type": "Skin",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/59001.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/7302-pandora-skin",
+        "description": "If you're a shoemaker, Pandora Skin has more than one surprise in store for you.",
+        "recipe": []
+    },
+    {
+        "_id": 7307,
+        "ankamaId": 7307,
+        "name": "Pandora Fabric",
+        "level": 200,
+        "type": "Fabric",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/55125.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/7307-pandora-fabric",
+        "description": "This fabric is almost as rare as a pleasant surprise from a Pandora's box.",
+        "recipe": []
+    },
+    {
+        "_id": 8813,
+        "ankamaId": 8813,
+        "name": "Giant Kralove Sucker",
+        "level": 200,
+        "type": "Miscellaneous resources",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/15763.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/8813-giant-kralove-sucker",
+        "description": "Given the size of this sucker, there's no doubt about its grip. And when you remove it, the slurping noise is deafening.",
+        "recipe": []
+    },
+    {
+        "_id": 11106,
+        "ankamaId": 11106,
+        "name": "Icefish",
+        "level": 200,
+        "type": "Fish",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/41403.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/11106-icefish",
+        "description": "Spines as sharp as Bworker's blades, scales as thick as Soft Oak Bark, and eyes as black as Crobak Feathers. This fish may be formidable, but served up on a plate it is quite simply delicious.",
+        "recipe": []
+    },
+    {
+        "_id": 11110,
+        "ankamaId": 11110,
+        "name": "Obsidian",
+        "level": 200,
+        "type": "Ore",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/39112.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/11110-obsidian",
+        "description": "Hard enough to scratch glass and dark enough to sap your morale, this rock has lost all of the heat of the lava from which it came. It would be perfect as a tombstone, as long as it's not your own.",
+        "recipe": []
+    },
+    {
+        "_id": 11199,
+        "ankamaId": 11199,
+        "name": "Frosteez Seed",
+        "level": 200,
+        "type": "Seed",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/58406.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/11199-frosteez-seed",
+        "description": "This seed, cold to the touch, releases a powerful chocolate aroma.",
+        "recipe": []
+    },
+    {
+        "_id": 11497,
+        "ankamaId": 11497,
+        "name": "Frosteez Oil",
+        "level": 200,
+        "type": "Oil",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/60073.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/11497-frosteez-oil",
+        "description": "This oil is good for preserving food and ideal for massages, lending a slight scent of chocolate to all your meals.",
+        "recipe": [
+            {
+                "Frosteez": {
+                    "ankamaId": 11109,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/11109-frosteez",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/34552.w48h48.png",
+                    "type": "Cereal",
+                    "level": 200,
+                    "quantity": 3
+                }
+            }
+        ]
+    },
+    {
+        "_id": 13913,
+        "ankamaId": 13913,
+        "name": "Harrogant Eye",
+        "level": 200,
+        "type": "Eye",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/109602.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/13913-harrogant-eye",
+        "description": "The crafters don't yet know enough about this item for its characteristics to be revealed to potential buyers.",
+        "recipe": []
+    },
+    {
+        "_id": 13924,
+        "ankamaId": 13924,
+        "name": "Klime's Scalp",
+        "level": 200,
+        "type": "Miscellaneous resources",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/15823.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/13924-klime-scalp",
+        "description": "Placed carefully over your nascent bald spot, this little treasure will take three weeks off you, easy!",
+        "recipe": []
+    },
+    {
+        "_id": 13930,
+        "ankamaId": 13930,
+        "name": "Karkanik Malleus",
+        "level": 200,
+        "type": "Miscellaneous resources",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/15826.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/13930-karkanik-malleus",
+        "description": "Karkaniks boast that they can fire their arrows faster than their opponents' shadows can move - but not this one, it would seem.",
+        "recipe": []
+    },
+    {
+        "_id": 13935,
+        "ankamaId": 13935,
+        "name": "Missiz Freezz's Armpit Hair",
+        "level": 200,
+        "type": "Hair",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/54691.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/13935-missiz-freezz-armpit-hair",
+        "description": "And to think, she didn't even say thank you for the free hair removal you gave her!",
+        "recipe": []
+    },
+    {
+        "_id": 13946,
+        "ankamaId": 13946,
+        "name": "Snowdew Sepal",
+        "level": 200,
+        "type": "Plant",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/36640.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/13946-snowdew-sepal",
+        "description": "Snowdews love the taste of fresh meat, so you've got nothing to be worried about.",
+        "recipe": []
+    },
+    {
+        "_id": 13971,
+        "ankamaId": 13971,
+        "name": "Tinkerbear Maxilla",
+        "level": 200,
+        "type": "Bone",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/47816.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/13971-tinkerbear-maxilla",
+        "description": "Tinkerbears will happily use a fallen comrade's maxilla as a vice when something needs repairing. Not everything can be fixed that way, especially not that tattoo you've got on your left bumcheek. Yes, the one you had done as a declaration of love for your sweetheart who left you broken-hearted a couple of days later.",
+        "recipe": []
+    },
+    {
+        "_id": 13972,
+        "ankamaId": 13972,
+        "name": "Tinkerbear Tail",
+        "level": 200,
+        "type": "Tail",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/65763.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/13972-tinkerbear-tail",
+        "description": "By pulling regularly on its tail, a Tinkerbear can increase its output dramatically for several days. I know what you're thinking, but trust me, it won't work.",
+        "recipe": []
+    },
+    {
+        "_id": 13975,
+        "ankamaId": 13975,
+        "name": "Mecanofoux Astragalus",
+        "level": 200,
+        "type": "Bone",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/47819.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/13975-mecanofoux-astragalus",
+        "description": "This bone was specially designed to adapt to the changing size of Mecanofoux ankles. The poor creatures suffer from a terrible inferiority complex, and are very sensitive about the size of their bones. You can readily sympathise with that sentiment, so I'm sure you'll put this to good use.",
+        "recipe": []
+    },
+    {
+        "_id": 14142,
+        "ankamaId": 14142,
+        "name": "New Bolt",
+        "level": 200,
+        "type": "Miscellaneous resources",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/15832.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/14142-new-bolt",
+        "description": "Like your brain, this bolt has never been used, but unlike your brain, it will serve some purpose during its short existence.",
+        "recipe": []
+    },
+    {
+        "_id": 14145,
+        "ankamaId": 14145,
+        "name": "Glass Eye",
+        "level": 200,
+        "type": "Eye",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/109604.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/14145-glass-eye",
+        "description": "The crafters don't yet know enough about this item for its characteristics to be revealed to potential buyers.",
+        "recipe": []
+    },
+    {
+        "_id": 14795,
+        "ankamaId": 14795,
+        "name": "Foggernaut Battery",
+        "level": 200,
+        "type": "Miscellaneous resources",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/15839.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/14795-foggernaut-battery",
+        "description": "The only way to tell if this battery is charged is to touch the contacts with your tongue. If you lose your tongue, it was charged.",
+        "recipe": []
+    },
+    {
+        "_id": 14823,
+        "ankamaId": 14823,
+        "name": "Barbakle Oil",
+        "level": 200,
+        "type": "Oil",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/60376.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/14823-barbakle-oil",
+        "description": "The colour of this oil seems to suggest that the Barbakle didn't have its annual oil change. The Foggernauts usually do it at the same time as their annual bath.",
+        "recipe": []
+    },
+    {
+        "_id": 15176,
+        "ankamaId": 15176,
+        "name": "Jewel from King Nidas's Crown",
+        "level": 200,
+        "type": "Precious stone",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/15875.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/15176-jewel-king-nidas-crown",
+        "description": "This gem will have heads turning wherever you go. What are you going to do with it? Give it away? Bury it? Sell it? Eat it? Maybe you should donate it to a charity such as \"Enutrofs Without Frontiers\", which fights tirelessly to return coveted items to Enutrofs the world over.",
+        "recipe": []
+    },
+    {
+        "_id": 15228,
+        "ankamaId": 15228,
+        "name": "Enutough Beard Hair",
+        "level": 200,
+        "type": "Hair",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/54702.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/15228-enutough-beard-hair",
+        "description": "Certain naughty painters steal Enutoughs' beard hairs to make their paintbrushes with. All the better for selling overpriced, poor quality knock-offs with, my dear!",
+        "recipe": []
+    },
+    {
+        "_id": 15383,
+        "ankamaId": 15383,
+        "name": "Fragment of Gein's Map 1/8",
+        "level": 200,
+        "type": "Map fragment",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/77042.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/15383-fragment-gein-map-1-8",
+        "description": "The crafters don't yet know enough about this item for its characteristics to be revealed to potential buyers.",
+        "recipe": []
+    },
+    {
+        "_id": 15384,
+        "ankamaId": 15384,
+        "name": "Fragment of Gein's Map 2/8",
+        "level": 200,
+        "type": "Map fragment",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/77042.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/15384-fragment-gein-map-2-8",
+        "description": "The crafters don't yet know enough about this item for its characteristics to be revealed to potential buyers.",
+        "recipe": []
+    },
+    {
+        "_id": 15386,
+        "ankamaId": 15386,
+        "name": "Fragment of Gein's Map 4/8",
+        "level": 200,
+        "type": "Map fragment",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/77042.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/15386-fragment-gein-map-4-8",
+        "description": "The crafters don't yet know enough about this item for its characteristics to be revealed to potential buyers.",
+        "recipe": []
+    },
+    {
+        "_id": 15389,
+        "ankamaId": 15389,
+        "name": "Fragment of Gein's Map 7/8",
+        "level": 200,
+        "type": "Map fragment",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/77042.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/15389-fragment-gein-map-7-8",
+        "description": "The crafters don't yet know enough about this item for its characteristics to be revealed to potential buyers.",
+        "recipe": []
+    },
+    {
+        "_id": 15447,
+        "ankamaId": 15447,
+        "name": "Terristocrat Bomb Fuse",
+        "level": 200,
+        "type": "Miscellaneous resources",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/15887.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/15447-terristocrat-bomb-fuse",
+        "description": "If you leave it sticking out of the ground, this fuse could scare some people by making them think there's a buried bomb. Of course, it goes without saying that a real bomb would probably be more effective.",
+        "recipe": []
+    },
+    {
+        "_id": 15449,
+        "ankamaId": 15449,
+        "name": "Tortryck Epaulette",
+        "level": 200,
+        "type": "Garment",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/15888.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/15449-tortryck-epaulette",
+        "description": "The crafters don't yet know enough about this item for its characteristics to be revealed to potential buyers.",
+        "recipe": []
+    },
+    {
+        "_id": 15475,
+        "ankamaId": 15475,
+        "name": "Key to the Throne Room of the Dark Court",
+        "level": 200,
+        "type": "Key",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/84736.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/15475-key-throne-room-dark-court",
+        "description": "The path to the throne is sometimes long and fraught with danger. Other times, you just need to know which door to open. Of course, the two aren't necessarily mutually exclusive…",
+        "recipe": [
+            {
+                "Snowdrop": {
+                    "ankamaId": 11102,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/11102-snowdrop",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/35635.w48h48.png",
+                    "type": "Flower",
+                    "level": 200,
+                    "quantity": 1
+                }
+            },
+            {
+                "Aspen Wood": {
+                    "ankamaId": 11107,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/11107-aspen-wood",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/38677.w48h48.png",
+                    "type": "Wood",
+                    "level": 200,
+                    "quantity": 7
+                }
+            },
+            {
+                "Obsidian": {
+                    "ankamaId": 11110,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/11110-obsidian",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/39112.w48h48.png",
+                    "type": "Ore",
+                    "level": 200,
+                    "quantity": 7
+                }
+            },
+            {
+                "Dark Court Fabric": {
+                    "ankamaId": 15414,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/15414-dark-court-fabric",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/59645.w48h48.png",
+                    "type": "Fabric",
+                    "level": 200,
+                    "quantity": 1
+                }
+            },
+            {
+                "Mastaklyr's Disarmed Trap": {
+                    "ankamaId": 15446,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/15446-mastaklyr-disarmed-trap",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/15886.w48h48.png",
+                    "type": "Miscellaneous resources",
+                    "level": 200,
+                    "quantity": 1
+                }
+            },
+            {
+                "Terristocrat Bomb Fuse": {
+                    "ankamaId": 15447,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/15447-terristocrat-bomb-fuse",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/15887.w48h48.png",
+                    "type": "Miscellaneous resources",
+                    "level": 200,
+                    "quantity": 1
+                }
+            },
+            {
+                "Double's Scrunchie": {
+                    "ankamaId": 15448,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/15448-double-scrunchie",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/164043.w48h48.png",
+                    "type": "Garment",
+                    "level": 200,
+                    "quantity": 1
+                }
+            },
+            {
+                "Tortryck Epaulette": {
+                    "ankamaId": 15449,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/15449-tortryck-epaulette",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/15888.w48h48.png",
+                    "type": "Garment",
+                    "level": 200,
+                    "quantity": 1
+                }
+            }
+        ]
+    },
+    {
+        "_id": 15685,
+        "ankamaId": 15685,
+        "name": "Bashillus Leg",
+        "level": 200,
+        "type": "Leg",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/103723.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/15685-bashillus-leg",
+        "description": "The crafters don't yet know enough about this item for its characteristics to be revealed to potential buyers.",
+        "recipe": []
+    },
+    {
+        "_id": 15687,
+        "ankamaId": 15687,
+        "name": "Viring Shell",
+        "level": 200,
+        "type": "Shell",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/111753.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/15687-viring-shell",
+        "description": "The crafters don't yet know enough about this item for its characteristics to be revealed to potential buyers.",
+        "recipe": []
+    },
+    {
+        "_id": 15688,
+        "ankamaId": 15688,
+        "name": "Pathogerm Skin",
+        "level": 200,
+        "type": "Skin",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/59647.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/15688-pathogerm-skin",
+        "description": "Pathogerm Skin is highly sought after for its elastic properties, but its colour makes it unusable for most other things.",
+        "recipe": []
+    },
+    {
+        "_id": 15715,
+        "ankamaId": 15715,
+        "name": "Vortex Wing",
+        "level": 200,
+        "type": "Wing",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/15895.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/15715-vortex-wing",
+        "description": "The crafters don't yet know enough about this item for its characteristics to be revealed to potential buyers.",
+        "recipe": []
+    },
+    {
+        "_id": 15718,
+        "ankamaId": 15718,
+        "name": "Krossflire Eye",
+        "level": 200,
+        "type": "Eye",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/15898.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/15718-krossflire-eye",
+        "description": "The crafters don't yet know enough about this item for its characteristics to be revealed to potential buyers.",
+        "recipe": []
+    },
+    {
+        "_id": 16008,
+        "ankamaId": 16008,
+        "name": "Scampihorse's Rechargeable Battery",
+        "level": 200,
+        "type": "Miscellaneous resources",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/164052.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/16008-scampihorse-rechargeable-battery",
+        "description": "No need to pedal to recharge this battery: simply soak it in water for a few minutes, then hop on the spot 36 times while shouting \"GAHOO-WAHOO\" at the top of your lungs. And there you have it, a brand new battery! Isn't technology marvellous?",
+        "recipe": []
+    },
+    {
+        "_id": 16032,
+        "ankamaId": 16032,
+        "name": "Fragment of Scampihorse's Map 6/8",
+        "level": 200,
+        "type": "Map fragment",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/77042.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/16032-fragment-scampihorse-map-6-8",
+        "description": "The crafters don't yet know enough about this item for its characteristics to be revealed to potential buyers.",
+        "recipe": []
+    },
+    {
+        "_id": 16036,
+        "ankamaId": 16036,
+        "name": "Fragment of Scampihorse's Map 3/8",
+        "level": 200,
+        "type": "Map fragment",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/77042.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/16036-fragment-scampihorse-map-3-8",
+        "description": "The crafters don't yet know enough about this item for its characteristics to be revealed to potential buyers.",
+        "recipe": []
+    },
+    {
+        "_id": 16038,
+        "ankamaId": 16038,
+        "name": "Fragment of Scampihorse's Map 1/8",
+        "level": 200,
+        "type": "Map fragment",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/77042.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/16038-fragment-scampihorse-map-1-8",
+        "description": "The crafters don't yet know enough about this item for its characteristics to be revealed to potential buyers.",
+        "recipe": []
+    },
+    {
+        "_id": 17022,
+        "ankamaId": 17022,
+        "name": "Basalt",
+        "level": 200,
+        "type": "Stone",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/51498.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/17022-basalt",
+        "description": "Laid down end to end, this basalt could be used to build a giant path from Brakmar to Vulkania to see who has the biggest. Stones, that is.",
+        "recipe": []
+    },
+    {
+        "_id": 17224,
+        "ankamaId": 17224,
+        "name": "Fragment of Kongoku's Map 3/8",
+        "level": 200,
+        "type": "Map fragment",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/77042.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/17224-fragment-kongoku-map-3-8",
+        "description": "The crafters don't yet know enough about this item for its characteristics to be revealed to potential buyers.",
+        "recipe": []
+    },
+    {
+        "_id": 17232,
+        "ankamaId": 17232,
+        "name": "Fragment of Voldelor's Map 1/8",
+        "level": 200,
+        "type": "Map fragment",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/77042.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/17232-fragment-voldelor-map-1-8",
+        "description": "The crafters don't yet know enough about this item for its characteristics to be revealed to potential buyers.",
+        "recipe": []
+    },
+    {
+        "_id": 17621,
+        "ankamaId": 17621,
+        "name": "Soldier's Pike",
+        "level": 200,
+        "type": "Miscellaneous resources",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/164088.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/17621-soldier-pike",
+        "description": "Used like a spear, this pike always finds its target's heart.",
+        "recipe": []
+    },
+    {
+        "_id": 17622,
+        "ankamaId": 17622,
+        "name": "Knight's Feather",
+        "level": 200,
+        "type": "Feather",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/53664.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/17622-knight-feather",
+        "description": "This instrument of torture has already made the greatest feet in the World of Twelve waver.",
+        "recipe": []
+    },
+    {
+        "_id": 17644,
+        "ankamaId": 17644,
+        "name": "Fragment of Atcham's Map 1/8",
+        "level": 200,
+        "type": "Map fragment",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/77042.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/17644-fragment-atcham-map-1-8",
+        "description": "The crafters don't yet know enough about this item for its characteristics to be revealed to potential buyers.",
+        "recipe": []
+    },
+    {
+        "_id": 17967,
+        "ankamaId": 17967,
+        "name": "Fear-Catcher",
+        "level": 200,
+        "type": "Exploration equipment",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/181005.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/17967-fear-catcher",
+        "description": "This strange object allows explorers to go down to Rygurgal Pit without being overcome by an unspeakable terror.",
+        "recipe": [
+            {
+                "Ambergris": {
+                    "ankamaId": 17864,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/17864-ambergris",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/164094.w48h48.png",
+                    "type": "Miscellaneous resources",
+                    "level": 200,
+                    "quantity": 1
+                }
+            },
+            {
+                "Jitter Filter": {
+                    "ankamaId": 17869,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/17869-jitter-filter",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/164099.w48h48.png",
+                    "type": "Miscellaneous resources",
+                    "level": 200,
+                    "quantity": 1
+                }
+            },
+            {
+                "Diepwon Tentacle": {
+                    "ankamaId": 17983,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/17983-diepwon-tentacle",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/103729.w48h48.png",
+                    "type": "Miscellaneous resources",
+                    "level": 200,
+                    "quantity": 50
+                }
+            },
+            {
+                "N'yalgy Tentacle": {
+                    "ankamaId": 17984,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/17984-yalgy-tentacle",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/103728.w48h48.png",
+                    "type": "Miscellaneous resources",
+                    "level": 200,
+                    "quantity": 50
+                }
+            },
+            {
+                "Spookkoth's Eye": {
+                    "ankamaId": 17986,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/17986-spookkoth-eye",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/109614.w48h48.png",
+                    "type": "Eye",
+                    "level": 200,
+                    "quantity": 50
+                }
+            },
+            {
+                "Mahaquany Wood": {
+                    "ankamaId": 17991,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/17991-mahaquany-wood",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/38684.w48h48.png",
+                    "type": "Wood",
+                    "level": 200,
+                    "quantity": 10
+                }
+            },
+            {
+                "Limpet": {
+                    "ankamaId": 17994,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/17994-limpet",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/41419.w48h48.png",
+                    "type": "Fish",
+                    "level": 200,
+                    "quantity": 20
+                }
+            },
+            {
+                "Sepiolite": {
+                    "ankamaId": 17995,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/17995-sepiolite",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/39399.w48h48.png",
+                    "type": "Ore",
+                    "level": 200,
+                    "quantity": 20
+                }
+            }
+        ]
+    },
+    {
+        "_id": 17971,
+        "ankamaId": 17971,
+        "name": "Yoloinist Crab Claw",
+        "level": 200,
+        "type": "Bone",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/47852.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/17971-yoloinist-crab-claw",
+        "description": "When the Yoloinist Crab finds a partner it thinks is worthy, it tests it by grabbing its shell and squeezing with all its might. If the shell remains unbroken, the two crabs become a couple. Thank goodness normal dating doesn't work the same way.",
+        "recipe": []
+    },
+    {
+        "_id": 17974,
+        "ankamaId": 17974,
+        "name": "Aquatic Parasite",
+        "level": 200,
+        "type": "Miscellaneous resources",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/15936.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/17974-aquatic-parasite",
+        "description": "In an environment dominated by blues and greens, this little parasite absorbs these two colours, causing its host to turn a decidedly more red tint. Unfortunately, this drastically reduces their lifespan, as it renders their hosts much more visible, and therefore much more vulnerable.",
+        "recipe": []
+    },
+    {
+        "_id": 17991,
+        "ankamaId": 17991,
+        "name": "Mahaquany Wood",
+        "level": 200,
+        "type": "Wood",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/38684.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/17991-mahaquany-wood",
+        "description": "Marine carpenters avoid using this wood which looks like coral to make ships; this prohibition probably has something to do with the fact that Mahaquany grows in the abysses. Boats were made to float; it's best not to tempt fate.",
+        "recipe": []
+    },
+    {
+        "_id": 18544,
+        "ankamaId": 18544,
+        "name": "Chamber of Tal Kasha Key",
+        "level": 200,
+        "type": "Key",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/84760.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/18544-chamber-tal-kasha-key",
+        "description": "To your disappointment, this key doesn't let you get into the Tal Kasha's bedroom, but her burial chamber. So unless you're a Sram, you may draw your colleagues' suspicion and disgust.",
+        "recipe": [
+            {
+                "Snowdrop": {
+                    "ankamaId": 11102,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/11102-snowdrop",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/35635.w48h48.png",
+                    "type": "Flower",
+                    "level": 200,
+                    "quantity": 1
+                }
+            },
+            {
+                "Aspen Wood": {
+                    "ankamaId": 11107,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/11107-aspen-wood",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/38677.w48h48.png",
+                    "type": "Wood",
+                    "level": 200,
+                    "quantity": 7
+                }
+            },
+            {
+                "Frosteez": {
+                    "ankamaId": 11109,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/11109-frosteez",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/34552.w48h48.png",
+                    "type": "Cereal",
+                    "level": 200,
+                    "quantity": 1
+                }
+            },
+            {
+                "Obsidian": {
+                    "ankamaId": 11110,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/11110-obsidian",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/39112.w48h48.png",
+                    "type": "Ore",
+                    "level": 200,
+                    "quantity": 7
+                }
+            },
+            {
+                "Jackalnubis Fragment": {
+                    "ankamaId": 18537,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/18537-jackalnubis-fragment",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/15952.w48h48.png",
+                    "type": "Miscellaneous resources",
+                    "level": 200,
+                    "quantity": 5
+                }
+            },
+            {
+                "Bandijd Tooth": {
+                    "ankamaId": 18538,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/18538-bandijd-tooth",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/47857.w48h48.png",
+                    "type": "Bone",
+                    "level": 200,
+                    "quantity": 5
+                }
+            },
+            {
+                "Mumystic Garnet": {
+                    "ankamaId": 18539,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/18539-mumystic-garnet",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/50727.w48h48.png",
+                    "type": "Precious stone",
+                    "level": 200,
+                    "quantity": 5
+                }
+            },
+            {
+                "Sneerena Golden Eyelid": {
+                    "ankamaId": 18540,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/18540-sneerena-golden-eyelid",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/15953.w48h48.png",
+                    "type": "Miscellaneous resources",
+                    "level": 200,
+                    "quantity": 5
+                }
+            }
+        ]
+    },
+    {
+        "_id": 19049,
+        "ankamaId": 19049,
+        "name": "Forfut Manor Key",
+        "level": 200,
+        "type": "Key",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/84762.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/19049-forfut-manor-key",
+        "description": "If you agree to give your blood, it is possible to enter Forfut Manor without a key. But it's a one-way journey.",
+        "recipe": [
+            {
+                "Snowdrop": {
+                    "ankamaId": 11102,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/11102-snowdrop",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/35635.w48h48.png",
+                    "type": "Flower",
+                    "level": 200,
+                    "quantity": 1
+                }
+            },
+            {
+                "Aspen Wood": {
+                    "ankamaId": 11107,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/11107-aspen-wood",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/38677.w48h48.png",
+                    "type": "Wood",
+                    "level": 200,
+                    "quantity": 7
+                }
+            },
+            {
+                "Frosteez": {
+                    "ankamaId": 11109,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/11109-frosteez",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/34552.w48h48.png",
+                    "type": "Cereal",
+                    "level": 200,
+                    "quantity": 1
+                }
+            },
+            {
+                "Obsidian": {
+                    "ankamaId": 11110,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/11110-obsidian",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/39112.w48h48.png",
+                    "type": "Ore",
+                    "level": 200,
+                    "quantity": 7
+                }
+            },
+            {
+                "Kerighoul Wing": {
+                    "ankamaId": 19070,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/19070-kerighoul-wing",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/104751.w48h48.png",
+                    "type": "Wing",
+                    "level": 200,
+                    "quantity": 5
+                }
+            },
+            {
+                "Ghouligan Eye": {
+                    "ankamaId": 19071,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/19071-ghouligan-eye",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/109617.w48h48.png",
+                    "type": "Eye",
+                    "level": 200,
+                    "quantity": 5
+                }
+            },
+            {
+                "Ghoultimate Hair": {
+                    "ankamaId": 19072,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/19072-ghoultimate-hair",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/54712.w48h48.png",
+                    "type": "Hair",
+                    "level": 200,
+                    "quantity": 5
+                }
+            },
+            {
+                "Pipistracker Nose": {
+                    "ankamaId": 19073,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/19073-pipistracker-nose",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/164138.w48h48.png",
+                    "type": "Miscellaneous resources",
+                    "level": 200,
+                    "quantity": 5
+                }
+            }
+        ]
+    },
+    {
+        "_id": 19069,
+        "ankamaId": 19069,
+        "name": "Ghoulutton Nail",
+        "level": 200,
+        "type": "Bone",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/47861.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/19069-ghoulutton-nail",
+        "description": "Ghoulutton Nails are soaked in Anerice's power, and can turn you into a ghoul. Luckily for you, they never use their hands to fight.",
+        "recipe": []
+    },
+    {
+        "_id": 19235,
+        "ankamaId": 19235,
+        "name": "Ectorch Fragment",
+        "level": 200,
+        "type": "Miscellaneous resources",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/15987.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/19235-ectorch-fragment",
+        "description": "This Ectorch Fragment is always on fire, as if its soul continues to be burn even after being defeated.",
+        "recipe": []
+    },
+    {
+        "_id": 19399,
+        "ankamaId": 19399,
+        "name": "Dead Key Tooth",
+        "level": 200,
+        "type": "Bone",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/40713.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/19399-dead-key-tooth",
+        "description": "Having listened too closely to his dentist's advice, Dead Key ended up losing his teeth.",
+        "recipe": []
+    },
+    {
+        "_id": 19403,
+        "ankamaId": 19403,
+        "name": "Hintense Eye",
+        "level": 200,
+        "type": "Eye",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/109618.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/19403-hintense-eye",
+        "description": "You have to be darn raving mad to remove a dead opponent's eye. What are you going to do with it now?",
+        "recipe": []
+    },
+    {
+        "_id": 19409,
+        "ankamaId": 19409,
+        "name": "Sucgunner Aquarachnee",
+        "level": 200,
+        "type": "Shell",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/111754.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/19409-sucgunner-aquarachnee",
+        "description": "This harmless-looking little creature will cling to you and will suck your blood down to the last drop. In this sense, it's a nice metaphor for married life.",
+        "recipe": []
+    },
+    {
+        "_id": 19911,
+        "ankamaId": 19911,
+        "name": "Koutoulou Larva Essence",
+        "level": 200,
+        "type": "Dungeon keeper essence",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/167001.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/19911-koutoulou-larva-essence",
+        "description": "This essence contains a part of the immense power of a dungeon keeper: the pick of the litter of monsters in the World of Twelve. Now you just have to find a use befitting such power.",
+        "recipe": [
+            {
+                "Koutoulou Larva Wing": {
+                    "ankamaId": 17989,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/17989-koutoulou-larva-wing",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/104749.w48h48.png",
+                    "type": "Wing",
+                    "level": 200,
+                    "quantity": 10
+                }
+            }
+        ]
+    },
+    {
+        "_id": 19969,
+        "ankamaId": 19969,
+        "name": "Dazahk Freezammer's Epaulettes",
+        "level": 200,
+        "type": "Garment",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/25162.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/19969-dazahk-freezammer-epaulettes",
+        "description": "When one's head is a bit oversized, it's easier to keep it attached with solid epaulettes such as these.",
+        "recipe": []
+    },
+    {
+        "_id": 19970,
+        "ankamaId": 19970,
+        "name": "Tankanvil Armour",
+        "level": 200,
+        "type": "Garment",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/25161.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/19970-tankanvil-armour",
+        "description": "It occasionally happens that certain daring Stubbyobs remove their armour before a fight. It's not known whether they're trying to prove that they are the strongest, or the most hard-headed.",
+        "recipe": []
+    },
+    {
+        "_id": 20195,
+        "ankamaId": 20195,
+        "name": "Mayhav the Bloodthirsty's Map",
+        "level": 200,
+        "type": "Map",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/77041.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/20195-mayhav-bloodthirsty-map",
+        "description": "This map will take you to Mayhav the Bloodthirsty's treasure.",
+        "recipe": []
+    },
+    {
+        "_id": 20654,
+        "ankamaId": 20654,
+        "name": "Legend of Dodge",
+        "level": 200,
+        "type": "Dream Resources",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/164623.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/20654-legend-dodge",
+        "description": "From dream to reality, memories become legends. This one tells part of the saga of Dodge.",
+        "recipe": []
+    },
+    {
+        "_id": 20656,
+        "ankamaId": 20656,
+        "name": "Legend of the Kicked Ass",
+        "level": 200,
+        "type": "Dream Resources",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/164618.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/20656-legend-kicked-ass",
+        "description": "From dream to reality, memories become legends. This one tells part of the saga of the Order of the Kicked Ass.",
+        "recipe": []
+    },
+    {
+        "_id": 20907,
+        "ankamaId": 20907,
+        "name": "Chocomancer Bar",
+        "level": 200,
+        "type": "Miscellaneous resources",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/15003.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/20907-chocomancer-bar",
+        "description": "This bar is a basic component in the Chokao Priestess set.",
+        "recipe": []
+    },
+    {
+        "_id": 20912,
+        "ankamaId": 20912,
+        "name": "Chocoligarch Diadem",
+        "level": 200,
+        "type": "Miscellaneous resources",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/59661.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/20912-chocoligarch-diadem",
+        "description": "The Chocoligarchs are the second-highest authority in the sect, just behind the Chokao Priestess. The Chocoligarchy also runs military operations, and acts as the Priestess's security detail.",
+        "recipe": []
+    },
+    {
+        "_id": 20913,
+        "ankamaId": 20913,
+        "name": "Chokao Priestess's Embroidery",
+        "level": 200,
+        "type": "Garment",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/59660.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/20913-chokao-priestess-embroidery",
+        "description": "It would be a shame to damage embroidery of such high quality… but if ever you're invited to a chocolate orgy and you have nothing to protect your clothes or wipe your face with, this piece of fabric taken from the Chokao Priestess will make an excellent bib.",
+        "recipe": []
+    },
+    {
+        "_id": 20914,
+        "ankamaId": 20914,
+        "name": "Broken Chokao Chip",
+        "level": 200,
+        "type": "Miscellaneous resources",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/50732.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/20914-broken-chokao-chip",
+        "description": "This piece of chocolate is as dark as the dark magic that animated it before; it mustn't be allowed to fall into just anyone's hands, or mouth.",
+        "recipe": []
+    },
+    {
+        "_id": 20963,
+        "ankamaId": 20963,
+        "name": "Frozen Plasmogrine",
+        "level": 200,
+        "type": "Miscellaneous resources",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/164629.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/20963-frozen-plasmogrine",
+        "description": "The evolution of this plasmogrine was suspended when it got trapped in ice.",
+        "recipe": []
+    },
+    {
+        "_id": 20965,
+        "ankamaId": 20965,
+        "name": "Pukachi Animal Legend",
+        "level": 200,
+        "type": "Dream Resources",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/164631.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/20965-pukachi-animal-legend",
+        "description": "Pukachis had a special ability to get on the nerves of all the adults that heard its cry. They were exterminated to bring a bit of peace and quiet to the World of Twelve.",
+        "recipe": []
+    },
+    {
+        "_id": 20967,
+        "ankamaId": 20967,
+        "name": "Bakusharna Animal Legend",
+        "level": 200,
+        "type": "Dream Resources",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/164633.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/20967-bakusharna-animal-legend",
+        "description": "To understand the difference between a good and a bad dream, you need to know the difference between a good and a bad Chassullier. Only the Bakusharna could boast such an exploit.",
+        "recipe": []
+    },
+    {
+        "_id": 20971,
+        "ankamaId": 20971,
+        "name": "Inert Egg",
+        "level": 200,
+        "type": "Egg",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/105650.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/20971-inert-egg",
+        "description": "No one knows if this egg will ever hatch, or what might come out of it if it did.",
+        "recipe": [
+            {
+                "Snowdrop": {
+                    "ankamaId": 11102,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/11102-snowdrop",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/35635.w48h48.png",
+                    "type": "Flower",
+                    "level": 200,
+                    "quantity": 6
+                }
+            },
+            {
+                "Icefish": {
+                    "ankamaId": 11106,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/11106-icefish",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/41403.w48h48.png",
+                    "type": "Fish",
+                    "level": 200,
+                    "quantity": 12
+                }
+            },
+            {
+                "Frosteez": {
+                    "ankamaId": 11109,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/11109-frosteez",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/34552.w48h48.png",
+                    "type": "Cereal",
+                    "level": 200,
+                    "quantity": 12
+                }
+            },
+            {
+                "Ardonite": {
+                    "ankamaId": 12728,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/12728-ardonite",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/40710.w48h48.png",
+                    "type": "Alloy",
+                    "level": 200,
+                    "quantity": 2
+                }
+            },
+            {
+                "Sparkling Pebble": {
+                    "ankamaId": 12740,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/12740-sparkling-pebble",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/15289.w48h48.png",
+                    "type": "Pebble",
+                    "level": 150,
+                    "quantity": 2
+                }
+            },
+            {
+                "Sylvan Substrate": {
+                    "ankamaId": 16460,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/16460-sylvan-substrate",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/177003.w48h48.png",
+                    "type": "Substrate",
+                    "level": 200,
+                    "quantity": 2
+                }
+            },
+            {
+                "Aziz Feather": {
+                    "ankamaId": 20960,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/20960-aziz-feather",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/53665.w48h48.png",
+                    "type": "Feather",
+                    "level": 200,
+                    "quantity": 1
+                }
+            }
+        ]
+    },
+    {
+        "_id": 21211,
+        "ankamaId": 21211,
+        "name": "Alassslash Loincloth",
+        "level": 200,
+        "type": "Garment",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/10339.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/21211-alassslash-loincloth",
+        "description": "According to the legend, Alassslashes don't wear anything under their loincloths.",
+        "recipe": []
+    },
+    {
+        "_id": 22028,
+        "ankamaId": 22028,
+        "name": "Shackles of Tyranny Key",
+        "level": 200,
+        "type": "Key",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/84775.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/22028-shackles-tyranny-key",
+        "description": "You can use this key to confront Servitude, one of the Horsemen of the Eliocalypse. That way, you'll be freed from the burden of life.",
+        "recipe": [
+            {
+                "Snowdrop": {
+                    "ankamaId": 11102,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/11102-snowdrop",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/35635.w48h48.png",
+                    "type": "Flower",
+                    "level": 200,
+                    "quantity": 1
+                }
+            },
+            {
+                "Aspen Wood": {
+                    "ankamaId": 11107,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/11107-aspen-wood",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/38677.w48h48.png",
+                    "type": "Wood",
+                    "level": 200,
+                    "quantity": 7
+                }
+            },
+            {
+                "Frosteez": {
+                    "ankamaId": 11109,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/11109-frosteez",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/34552.w48h48.png",
+                    "type": "Cereal",
+                    "level": 200,
+                    "quantity": 1
+                }
+            },
+            {
+                "Obsidian": {
+                    "ankamaId": 11110,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/11110-obsidian",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/39112.w48h48.png",
+                    "type": "Ore",
+                    "level": 200,
+                    "quantity": 7
+                }
+            },
+            {
+                "Worn Oar Wood": {
+                    "ankamaId": 22216,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/22216-worn-oar-wood",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/24267.w48h48.png",
+                    "type": "Wood",
+                    "level": 200,
+                    "quantity": 5
+                }
+            },
+            {
+                "Rhythmic Wand": {
+                    "ankamaId": 22218,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/22218-rhythmic-wand",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/15998.w48h48.png",
+                    "type": "Miscellaneous resources",
+                    "level": 200,
+                    "quantity": 5
+                }
+            },
+            {
+                "Ballasted Kanonball": {
+                    "ankamaId": 22223,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/22223-ballasted-kanonball",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/24266.w48h48.png",
+                    "type": "Miscellaneous resources",
+                    "level": 200,
+                    "quantity": 5
+                }
+            },
+            {
+                "Whip Handle": {
+                    "ankamaId": 22224,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/22224-whip-handle",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/24265.w48h48.png",
+                    "type": "Miscellaneous resources",
+                    "level": 200,
+                    "quantity": 5
+                }
+            }
+        ]
+    },
+    {
+        "_id": 22047,
+        "ankamaId": 22047,
+        "name": "Junker Shoulder Pad",
+        "level": 200,
+        "type": "Garment",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/164638.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/22047-junker-shoulder-pad",
+        "description": "Junkers are particularly good at turning scrap metal and other rubbish into weapons and pieces of armour that are used to equip Misery's armies. The very basic look of this equipment stands in sharp contrast with its surprising robustness.",
+        "recipe": []
+    },
+    {
+        "_id": 22149,
+        "ankamaId": 22149,
+        "name": "Judgement of the Scales Key",
+        "level": 200,
+        "type": "Key",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/84777.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/22149-judgement-scales-key",
+        "description": "It's almost impossible to talk to Misery unless she decides to talk to you. You may be able to force her hand with this key.",
+        "recipe": [
+            {
+                "Snowdrop": {
+                    "ankamaId": 11102,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/11102-snowdrop",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/35635.w48h48.png",
+                    "type": "Flower",
+                    "level": 200,
+                    "quantity": 1
+                }
+            },
+            {
+                "Aspen Wood": {
+                    "ankamaId": 11107,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/11107-aspen-wood",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/38677.w48h48.png",
+                    "type": "Wood",
+                    "level": 200,
+                    "quantity": 7
+                }
+            },
+            {
+                "Frosteez": {
+                    "ankamaId": 11109,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/11109-frosteez",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/34552.w48h48.png",
+                    "type": "Cereal",
+                    "level": 200,
+                    "quantity": 1
+                }
+            },
+            {
+                "Obsidian": {
+                    "ankamaId": 11110,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/11110-obsidian",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/39112.w48h48.png",
+                    "type": "Ore",
+                    "level": 200,
+                    "quantity": 7
+                }
+            },
+            {
+                "Starven Tongue": {
+                    "ankamaId": 22048,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/22048-starven-tongue",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/24277.w48h48.png",
+                    "type": "Miscellaneous resources",
+                    "level": 200,
+                    "quantity": 5
+                }
+            },
+            {
+                "Deboning Ribs": {
+                    "ankamaId": 22049,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/22049-deboning-ribs",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/47871.w48h48.png",
+                    "type": "Bone",
+                    "level": 200,
+                    "quantity": 5
+                }
+            },
+            {
+                "Skentu Hood": {
+                    "ankamaId": 22050,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/22050-skentu-hood",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/164639.w48h48.png",
+                    "type": "Garment",
+                    "level": 200,
+                    "quantity": 5
+                }
+            },
+            {
+                "Dawaj Eye": {
+                    "ankamaId": 22051,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/22051-dawaj-eye",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/109623.w48h48.png",
+                    "type": "Eye",
+                    "level": 200,
+                    "quantity": 5
+                }
+            }
+        ]
+    },
+    {
+        "_id": 22210,
+        "ankamaId": 22210,
+        "name": "Elgrun Leg",
+        "level": 200,
+        "type": "Leg",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/24272.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/22210-elgrun-leg",
+        "description": "Asking an Elgrun to shake hands is never a good idea. For one thing, it's a wild monster that's probably only thinking of tearing you to bits. Then there's the pouch of venom hidden in each of its appendages to ensure your slow and agonising death. Fun times all around!",
+        "recipe": []
+    },
+    {
+        "_id": 22216,
+        "ankamaId": 22216,
+        "name": "Worn Oar Wood",
+        "level": 200,
+        "type": "Wood",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/24267.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/22216-worn-oar-wood",
+        "description": "Wood so damaged that it must have been used by Galley slaves for years.",
+        "recipe": []
+    },
+    {
+        "_id": 22223,
+        "ankamaId": 22223,
+        "name": "Ballasted Kanonball",
+        "level": 200,
+        "type": "Miscellaneous resources",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/24266.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/22223-ballasted-kanonball",
+        "description": "This ball is extremely heavy and anyone dragging it must be extra vigilant if they don't want to lose a toe.",
+        "recipe": []
+    },
+    {
+        "_id": 22256,
+        "ankamaId": 22256,
+        "name": "Meridiawful",
+        "level": 200,
+        "type": "Idol",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/178105.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/22256-meridiawful",
+        "description": "This idol contains the magic of several Meridia and a fragment of the magic of Sadida himself. However, all this power has a habit of escaping and strengthening your enemies.",
+        "recipe": []
+    },
+    {
+        "_id": 22401,
+        "ankamaId": 22401,
+        "name": "Eliocalypse Storm Key",
+        "level": 200,
+        "type": "Key",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/84778.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/22401-eliocalypse-storm-key",
+        "description": "This key – imbued with advanced technomagic properties – will give you access to the Eliocalypse time storm. If you don't get lost in the twists and turns of time, the Horsemen will have to watch out!",
+        "recipe": [
+            {
+                "Snowdrop": {
+                    "ankamaId": 11102,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/11102-snowdrop",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/35635.w48h48.png",
+                    "type": "Flower",
+                    "level": 200,
+                    "quantity": 1
+                }
+            },
+            {
+                "Aspen Wood": {
+                    "ankamaId": 11107,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/11107-aspen-wood",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/38677.w48h48.png",
+                    "type": "Wood",
+                    "level": 200,
+                    "quantity": 7
+                }
+            },
+            {
+                "Frosteez": {
+                    "ankamaId": 11109,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/11109-frosteez",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/34552.w48h48.png",
+                    "type": "Cereal",
+                    "level": 200,
+                    "quantity": 1
+                }
+            },
+            {
+                "Obsidian": {
+                    "ankamaId": 11110,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/11110-obsidian",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/39112.w48h48.png",
+                    "type": "Ore",
+                    "level": 200,
+                    "quantity": 7
+                }
+            },
+            {
+                "Junker Shoulder Pad": {
+                    "ankamaId": 22047,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/22047-junker-shoulder-pad",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/164638.w48h48.png",
+                    "type": "Garment",
+                    "level": 200,
+                    "quantity": 1
+                }
+            },
+            {
+                "Pistilick Tongue": {
+                    "ankamaId": 22207,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/22207-pistilick-tongue",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/24270.w48h48.png",
+                    "type": "Miscellaneous resources",
+                    "level": 200,
+                    "quantity": 1
+                }
+            },
+            {
+                "Armiscreant Hood": {
+                    "ankamaId": 22217,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/22217-armiscreant-hood",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/15999.w48h48.png",
+                    "type": "Garment",
+                    "level": 200,
+                    "quantity": 1
+                }
+            },
+            {
+                "Armour Fragment": {
+                    "ankamaId": 22250,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/22250-armour-fragment",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/24280.w48h48.png",
+                    "type": "Miscellaneous resources",
+                    "level": 200,
+                    "quantity": 1
+                }
+            }
+        ]
+    },
+    {
+        "_id": 22418,
+        "ankamaId": 22418,
+        "name": "The Legend of Corruption",
+        "level": 200,
+        "type": "Dream Resources",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/164641.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/22418-legend-corruption",
+        "description": "From dream to reality, memories become legends. This one tells part of Corruption's story.",
+        "recipe": []
+    },
+    {
+        "_id": 11102,
+        "ankamaId": 11102,
+        "name": "Snowdrop",
+        "level": 200,
+        "type": "Flower",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/35635.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/11102-snowdrop",
+        "description": "Hardened to Frigost's harsh climate, this flower is much more resistant than its delicate appearance would suggest. That said, to preserve the alchemic properties of such a rare plant, it must be handled carefully when harvested.",
+        "recipe": []
+    },
+    {
+        "_id": 11107,
+        "ankamaId": 11107,
+        "name": "Aspen Wood",
+        "level": 200,
+        "type": "Wood",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/38677.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/11107-aspen-wood",
+        "description": "This tree appears to tremble when you touch it. After all the axe blows you've dealt it, it's not surprising it's scared of you.",
+        "recipe": []
+    },
+    {
+        "_id": 11499,
+        "ankamaId": 11499,
+        "name": "Puffed Frosteez",
+        "level": 200,
+        "type": "Cereal",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/34553.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/11499-puffed-frosteez",
+        "description": "Lighter and sweeter than conventional Frosteez, this cereal will make you roar with pleasure if you eat it with mimilk.",
+        "recipe": []
+    },
+    {
+        "_id": 11501,
+        "ankamaId": 11501,
+        "name": "Snow Star",
+        "level": 200,
+        "type": "Flower",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/35290.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/11501-snow-star",
+        "description": "This rare flower is named in remembrance of a boy named Savo who swore his love to a shepherdess, using the stars as his witnesses. He gave her a bouquet of these flowers before leaving for Frigost Village where he became a chimney sweep and perished in a fire.",
+        "recipe": []
+    },
+    {
+        "_id": 12728,
+        "ankamaId": 12728,
+        "name": "Ardonite",
+        "level": 200,
+        "type": "Alloy",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/40710.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/12728-ardonite",
+        "description": "This rare alloy gives off an energy powerful enough to fuel even the most demanding magical items, such as asymmetric bottle-openers or barycentre-less percolators, to cite just a couple of the better known examples.",
+        "recipe": [
+            {
+                "Gold": {
+                    "ankamaId": 313,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/313-gold",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/39022.w48h48.png",
+                    "type": "Ore",
+                    "level": 160,
+                    "quantity": 10
+                }
+            },
+            {
+                "Silver": {
+                    "ankamaId": 350,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/350-silver",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/39028.w48h48.png",
+                    "type": "Ore",
+                    "level": 120,
+                    "quantity": 10
+                }
+            },
+            {
+                "Tin": {
+                    "ankamaId": 444,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/444-tin",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/39078.w48h48.png",
+                    "type": "Ore",
+                    "level": 100,
+                    "quantity": 10
+                }
+            },
+            {
+                "Manganese": {
+                    "ankamaId": 445,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/445-manganese",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/39397.w48h48.png",
+                    "type": "Ore",
+                    "level": 80,
+                    "quantity": 10
+                }
+            },
+            {
+                "Bauxite": {
+                    "ankamaId": 446,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/446-bauxite",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/39076.w48h48.png",
+                    "type": "Ore",
+                    "level": 140,
+                    "quantity": 10
+                }
+            },
+            {
+                "Silicate": {
+                    "ankamaId": 7032,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/7032-silicate",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/39111.w48h48.png",
+                    "type": "Ore",
+                    "level": 100,
+                    "quantity": 10
+                }
+            },
+            {
+                "Dolomite": {
+                    "ankamaId": 7033,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/7033-dolomite",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/39110.w48h48.png",
+                    "type": "Ore",
+                    "level": 180,
+                    "quantity": 10
+                }
+            },
+            {
+                "Obsidian": {
+                    "ankamaId": 11110,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/11110-obsidian",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/39112.w48h48.png",
+                    "type": "Ore",
+                    "level": 200,
+                    "quantity": 10
+                }
+            }
+        ]
+    },
+    {
+        "_id": 13914,
+        "ankamaId": 13914,
+        "name": "Harrogant Pants",
+        "level": 200,
+        "type": "Garment",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/164010.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/13914-harrogant-pants",
+        "description": "The crafters don't yet know enough about this item for its characteristics to be revealed to potential buyers.",
+        "recipe": []
+    },
+    {
+        "_id": 13919,
+        "ankamaId": 13919,
+        "name": "Asteraw Leather",
+        "level": 200,
+        "type": "Leather",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/56667.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/13919-asteraw-leather",
+        "description": "This leather smells like straw, and the Asteraw's straw smells like leather. the old Tofu and egg paradox again!",
+        "recipe": []
+    },
+    {
+        "_id": 13933,
+        "ankamaId": 13933,
+        "name": "Revish Stapes",
+        "level": 200,
+        "type": "Bone",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/47810.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/13933-revish-stapes",
+        "description": "The stapes is the smallest bone in the Revish's body. This particular example was shattered into tiny pieces during a recent Jon Lemon concert.",
+        "recipe": []
+    },
+    {
+        "_id": 13942,
+        "ankamaId": 13942,
+        "name": "Dodox Beak",
+        "level": 200,
+        "type": "Bone",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/47813.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/13942-dodox-beak",
+        "description": "It's not unusual for a Dodox to become particularly attached to passing adventurers, especially by its beak.",
+        "recipe": []
+    },
+    {
+        "_id": 13943,
+        "ankamaId": 13943,
+        "name": "Thermite Leg",
+        "level": 200,
+        "type": "Leg",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/103718.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/13943-thermite-leg",
+        "description": "The crafters don't yet know enough about this item for its characteristics to be revealed to potential buyers.",
+        "recipe": []
+    },
+    {
+        "_id": 13945,
+        "ankamaId": 13945,
+        "name": "Snowdew Bract",
+        "level": 200,
+        "type": "Plant",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/36639.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/13945-snowdew-bract",
+        "description": "Do carnivorous plants taste of meat?",
+        "recipe": []
+    },
+    {
+        "_id": 13947,
+        "ankamaId": 13947,
+        "name": "Nileza's Embroidery",
+        "level": 200,
+        "type": "Garment",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/164012.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/13947-nileza-embroidery",
+        "description": "The crafters don't yet know enough about this item for its characteristics to be revealed to potential buyers.",
+        "recipe": []
+    },
+    {
+        "_id": 13973,
+        "ankamaId": 13973,
+        "name": "Pingwinch Beak",
+        "level": 200,
+        "type": "Bone",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/47817.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/13973-pingwinch-beak",
+        "description": "I know you were keen for that Pingwinch to stop sticking its beak in, but was cutting it off really necessary?",
+        "recipe": []
+    },
+    {
+        "_id": 13974,
+        "ankamaId": 13974,
+        "name": "Pingwinch Sternum",
+        "level": 200,
+        "type": "Bone",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/47818.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/13974-pingwinch-sternum",
+        "description": "The ribs that were attached to this sternum were delicious, but they would have tasted even better if you'd defeated its owner yourself. Watching your fights on Frigost, it's difficult to know whether you're the hunter or the hunted.",
+        "recipe": []
+    },
+    {
+        "_id": 13978,
+        "ankamaId": 13978,
+        "name": "Serpulax Peduncle",
+        "level": 200,
+        "type": "Mushroom",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/119008.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/13978-serpulax-peduncle",
+        "description": "You can eat this peduncle shredded, boiled, smoked or even stewed, but the results will be the same - you'll be leaving the castle on a stretcher. Mind you, that's no different to any other adventurer who's attempted to defeat Count Harebourg.",
+        "recipe": []
+    },
+    {
+        "_id": 13986,
+        "ankamaId": 13986,
+        "name": "Treadfast Claw",
+        "level": 200,
+        "type": "Bone",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/15830.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/13986-treadfast-claw",
+        "description": "This razor-sharp claw cuts flesh with disconcerting ease, which is why Treadfasts don't shake hands with the people they meet. Well, that and the fact that they can't stand on one leg.",
+        "recipe": []
+    },
+    {
+        "_id": 13989,
+        "ankamaId": 13989,
+        "name": "Cycloid Feather",
+        "level": 200,
+        "type": "Feather",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/53657.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/13989-cycloid-feather",
+        "description": "Cycloid feathers make excellent feather dusters, and the owner of this particular example will be only too pleased to attack you, once it's finished the housework.",
+        "recipe": []
+    },
+    {
+        "_id": 13991,
+        "ankamaId": 13991,
+        "name": "Sinistrofu Tail",
+        "level": 200,
+        "type": "Tail",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/65764.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/13991-sinistrofu-tail",
+        "description": "All the birds in the courtyard laugh at this tiny tail, your mother-in-law included.",
+        "recipe": []
+    },
+    {
+        "_id": 14047,
+        "ankamaId": 14047,
+        "name": "Count Harebourg's Dungeon Key",
+        "level": 200,
+        "type": "Key",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/84723.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/14047-count-harebourg-dungeon-key",
+        "description": "You won't be able to wind up any clocks with this key, but it'll certainly let you wind up the Count.",
+        "recipe": [
+            {
+                "Snowdrop": {
+                    "ankamaId": 11102,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/11102-snowdrop",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/35635.w48h48.png",
+                    "type": "Flower",
+                    "level": 200,
+                    "quantity": 1
+                }
+            },
+            {
+                "Aspen Wood": {
+                    "ankamaId": 11107,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/11107-aspen-wood",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/38677.w48h48.png",
+                    "type": "Wood",
+                    "level": 200,
+                    "quantity": 7
+                }
+            },
+            {
+                "Frosteez": {
+                    "ankamaId": 11109,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/11109-frosteez",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/34552.w48h48.png",
+                    "type": "Cereal",
+                    "level": 200,
+                    "quantity": 1
+                }
+            },
+            {
+                "Obsidian": {
+                    "ankamaId": 11110,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/11110-obsidian",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/39112.w48h48.png",
+                    "type": "Ore",
+                    "level": 200,
+                    "quantity": 7
+                }
+            },
+            {
+                "Bubotron Feather": {
+                    "ankamaId": 13984,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/13984-bubotron-feather",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/53656.w48h48.png",
+                    "type": "Feather",
+                    "level": 200,
+                    "quantity": 1
+                }
+            },
+            {
+                "Cycloid Eye": {
+                    "ankamaId": 13988,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/13988-cycloid-eye",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/109603.w48h48.png",
+                    "type": "Eye",
+                    "level": 200,
+                    "quantity": 1
+                }
+            },
+            {
+                "Sinistrofu Wing": {
+                    "ankamaId": 13990,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/13990-sinistrofu-wing",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/104745.w48h48.png",
+                    "type": "Wing",
+                    "level": 200,
+                    "quantity": 1
+                }
+            },
+            {
+                "Nocturnowl Wing": {
+                    "ankamaId": 13992,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/13992-nocturnowl-wing",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/104746.w48h48.png",
+                    "type": "Wing",
+                    "level": 200,
+                    "quantity": 1
+                }
+            }
+        ]
+    },
+    {
+        "_id": 14819,
+        "ankamaId": 14819,
+        "name": "Steamcrab Carapace",
+        "level": 200,
+        "type": "Carapace",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/107737.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/14819-steamcrab-carapace",
+        "description": "The crafters don't yet know enough about this item for its characteristics to be revealed to potential buyers.",
+        "recipe": []
+    },
+    {
+        "_id": 14822,
+        "ankamaId": 14822,
+        "name": "Barbakle Barb",
+        "level": 200,
+        "type": "Bone",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/47832.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/14822-barbakle-barb",
+        "description": "Certain knavish Foggernauts have used these barbs to pop the balloons of kids who wouldn't behave, or the hearts of those who dared cross them.",
+        "recipe": []
+    },
+    {
+        "_id": 14859,
+        "ankamaId": 14859,
+        "name": "Harpo Blood",
+        "level": 200,
+        "type": "Miscellaneous resources",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/15840.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/14859-harpo-blood",
+        "description": "The blood test revealed a large quantity of iron and no small amount of rust. A clean bill of health, then.",
+        "recipe": []
+    },
+    {
+        "_id": 14861,
+        "ankamaId": 14861,
+        "name": "Bartyclank Embroidery",
+        "level": 200,
+        "type": "Garment",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/164027.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/14861-bartyclank-embroidery",
+        "description": "The crafters don't yet know enough about this item for its characteristics to be revealed to potential buyers.",
+        "recipe": []
+    },
+    {
+        "_id": 14864,
+        "ankamaId": 14864,
+        "name": "Merkator's Beard",
+        "level": 200,
+        "type": "Hair",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/54696.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/14864-merkator-beard",
+        "description": "This beard has become discoloured after repeatedly being exposed to, and abused by, salt water and hundreds of fearsome storms only a hardened sailor could face. Or maybe Merkator dyed it to match his armour. Only his barber knows for sure.",
+        "recipe": []
+    },
+    {
+        "_id": 14936,
+        "ankamaId": 14936,
+        "name": "Vigilante Insignia",
+        "level": 200,
+        "type": "Miscellaneous resources",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/15849.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/14936-vigilante-insignia",
+        "description": "Brandished with certainty and conviction against a supervillain, this insignia will force the villain to tell you every detail of his evil plan before he tries to kill you. Note: tries. If he succeeds, you didn't deserve the insignia.",
+        "recipe": []
+    },
+    {
+        "_id": 15177,
+        "ankamaId": 15177,
+        "name": "Kamasterisk Horn",
+        "level": 200,
+        "type": "Precious stone",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/15876.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/15177-kamasterisk-horn",
+        "description": "Only an Enutrof would think up the idea of fighting with gold-plated horns. But you have to hand it to him: the result is almost terrifying as the Bearendizer during a honey shortage.",
+        "recipe": []
+    },
+    {
+        "_id": 15181,
+        "ankamaId": 15181,
+        "name": "Hairsh Golden Ball",
+        "level": 200,
+        "type": "Precious stone",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/15880.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/15181-hairsh-golden-ball",
+        "description": "These balls come in all different colours and glow in the dark. The Hairshes use them to feign magical attacks, which, paired with an icy glare, is enough to send some adventurers running. When not fighting sissies, this bluff technique just makes the Hairshes look even more ridiculous.",
+        "recipe": []
+    },
+    {
+        "_id": 15272,
+        "ankamaId": 15272,
+        "name": "King Nidas Essence",
+        "level": 200,
+        "type": "Dungeon keeper essence",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/167001.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/15272-king-nidas-essence",
+        "description": "This essence contains a part of the immense power of a dungeon keeper: the pick of the litter of monsters in the World of Twelve. Now you just have to find a use befitting such power.",
+        "recipe": [
+            {
+                "Jewel from King Nidas's Crown": {
+                    "ankamaId": 15176,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/15176-jewel-king-nidas-crown",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/15875.w48h48.png",
+                    "type": "Precious stone",
+                    "level": 200,
+                    "quantity": 10
+                }
+            }
+        ]
+    },
+    {
+        "_id": 15390,
+        "ankamaId": 15390,
+        "name": "Fragment of Gein's Map 8/8",
+        "level": 200,
+        "type": "Map fragment",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/77042.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/15390-fragment-gein-map-8-8",
+        "description": "The crafters don't yet know enough about this item for its characteristics to be revealed to potential buyers.",
+        "recipe": []
+    },
+    {
+        "_id": 15414,
+        "ankamaId": 15414,
+        "name": "Dark Court Fabric",
+        "level": 200,
+        "type": "Fabric",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/59645.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/15414-dark-court-fabric",
+        "description": "Srambad's nobility has some luxurious tastes and this fabric reflects them perfectly: soft and silky, this fabric is obviously not made from just any old material. It just goes to show, even the worst criminals can have delicate skin.",
+        "recipe": []
+    },
+    {
+        "_id": 15445,
+        "ankamaId": 15445,
+        "name": "The Queen of Thieves' Embroidery",
+        "level": 200,
+        "type": "Garment",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/59643.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/15445-queen-thieves-embroidery",
+        "description": "The crafters don't yet know enough about this item for its characteristics to be revealed to potential buyers.",
+        "recipe": []
+    },
+    {
+        "_id": 15448,
+        "ankamaId": 15448,
+        "name": "Double's Scrunchie",
+        "level": 200,
+        "type": "Garment",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/164043.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/15448-double-scrunchie",
+        "description": "The crafters don't yet know enough about this item for its characteristics to be revealed to potential buyers.",
+        "recipe": []
+    },
+    {
+        "_id": 15684,
+        "ankamaId": 15684,
+        "name": "Verminoculate Eye",
+        "level": 200,
+        "type": "Eye",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/109608.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/15684-verminoculate-eye",
+        "description": "The crafters don't yet know enough about this item for its characteristics to be revealed to potential buyers.",
+        "recipe": []
+    },
+    {
+        "_id": 15691,
+        "ankamaId": 15691,
+        "name": "Whale Salt",
+        "level": 200,
+        "type": "Powder",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/164045.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/15691-whale-salt",
+        "description": "Krobes absorb the salt dissolved in the seawater – and that's the only good thing that happens when they show up.",
+        "recipe": []
+    },
+    {
+        "_id": 15808,
+        "ankamaId": 15808,
+        "name": "Vortex's Eye Key",
+        "level": 200,
+        "type": "Key",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/84742.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/15808-vortex-eye-key",
+        "description": "There are many places where you have so much fun that time simply flies by. Unfortunately, the Eye of Vortex is not one of them.",
+        "recipe": [
+            {
+                "Snowdrop": {
+                    "ankamaId": 11102,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/11102-snowdrop",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/35635.w48h48.png",
+                    "type": "Flower",
+                    "level": 200,
+                    "quantity": 1
+                }
+            },
+            {
+                "Aspen Wood": {
+                    "ankamaId": 11107,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/11107-aspen-wood",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/38677.w48h48.png",
+                    "type": "Wood",
+                    "level": 200,
+                    "quantity": 7
+                }
+            },
+            {
+                "Obsidian": {
+                    "ankamaId": 11110,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/11110-obsidian",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/39112.w48h48.png",
+                    "type": "Ore",
+                    "level": 200,
+                    "quantity": 7
+                }
+            },
+            {
+                "Ickyrus Talon": {
+                    "ankamaId": 15716,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/15716-ickyrus-talon",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/15896.w48h48.png",
+                    "type": "Leg",
+                    "level": 200,
+                    "quantity": 1
+                }
+            },
+            {
+                "Hystairkal Horn": {
+                    "ankamaId": 15717,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/15717-hystairkal-horn",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/15897.w48h48.png",
+                    "type": "Bone",
+                    "level": 200,
+                    "quantity": 1
+                }
+            },
+            {
+                "Krossflire Eye": {
+                    "ankamaId": 15718,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/15718-krossflire-eye",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/15898.w48h48.png",
+                    "type": "Eye",
+                    "level": 200,
+                    "quantity": 1
+                }
+            },
+            {
+                "Crushmore Claw": {
+                    "ankamaId": 15719,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/15719-crushmore-claw",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/15899.w48h48.png",
+                    "type": "Bone",
+                    "level": 200,
+                    "quantity": 1
+                }
+            },
+            {
+                "Fugitive Loop": {
+                    "ankamaId": 15811,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/15811-fugitive-loop",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/15918.w48h48.png",
+                    "type": "Garment",
+                    "level": 200,
+                    "quantity": 1
+                }
+            }
+        ]
+    },
+    {
+        "_id": 16030,
+        "ankamaId": 16030,
+        "name": "Fragment of Scampihorse's Map 8/8",
+        "level": 200,
+        "type": "Map fragment",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/77042.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/16030-fragment-scampihorse-map-8-8",
+        "description": "The crafters don't yet know enough about this item for its characteristics to be revealed to potential buyers.",
+        "recipe": []
+    },
+    {
+        "_id": 16042,
+        "ankamaId": 16042,
+        "name": "Scampihorse's Map",
+        "level": 200,
+        "type": "Map",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/77041.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/16042-scampihorse-map",
+        "description": "This map will allow you to find Scampihorse's legendary treasure.",
+        "recipe": [
+            {
+                "Fragment of Scampihorse's Map 8/8": {
+                    "ankamaId": 1603088,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/16030-fragment-scampihorse-map-8-8",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/77042.w48h48.png",
+                    "type": "Map fragment",
+                    "level": 200,
+                    "quantity": 1
+                }
+            },
+            {
+                "Fragment of Scampihorse's Map 7/8": {
+                    "ankamaId": 1603178,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/16031-fragment-scampihorse-map-7-8",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/77042.w48h48.png",
+                    "type": "Map fragment",
+                    "level": 200,
+                    "quantity": 1
+                }
+            },
+            {
+                "Fragment of Scampihorse's Map 6/8": {
+                    "ankamaId": 1603268,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/16032-fragment-scampihorse-map-6-8",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/77042.w48h48.png",
+                    "type": "Map fragment",
+                    "level": 200,
+                    "quantity": 1
+                }
+            },
+            {
+                "Fragment of Scampihorse's Map 5/8": {
+                    "ankamaId": 1603458,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/16034-fragment-scampihorse-map-5-8",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/77042.w48h48.png",
+                    "type": "Map fragment",
+                    "level": 200,
+                    "quantity": 1
+                }
+            },
+            {
+                "Fragment of Scampihorse's Map 4/8": {
+                    "ankamaId": 1603548,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/16035-fragment-scampihorse-map-4-8",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/77042.w48h48.png",
+                    "type": "Map fragment",
+                    "level": 200,
+                    "quantity": 1
+                }
+            },
+            {
+                "Fragment of Scampihorse's Map 3/8": {
+                    "ankamaId": 1603638,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/16036-fragment-scampihorse-map-3-8",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/77042.w48h48.png",
+                    "type": "Map fragment",
+                    "level": 200,
+                    "quantity": 1
+                }
+            },
+            {
+                "Fragment of Scampihorse's Map 2/8": {
+                    "ankamaId": 1603728,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/16037-fragment-scampihorse-map-2-8",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/77042.w48h48.png",
+                    "type": "Map fragment",
+                    "level": 200,
+                    "quantity": 1
+                }
+            },
+            {
+                "Fragment of Scampihorse's Map 1/8": {
+                    "ankamaId": 1603818,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/16038-fragment-scampihorse-map-1-8",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/77042.w48h48.png",
+                    "type": "Map fragment",
+                    "level": 200,
+                    "quantity": 1
+                }
+            }
+        ]
+    },
+    {
+        "_id": 16499,
+        "ankamaId": 16499,
+        "name": "Rescue Board",
+        "level": 200,
+        "type": "Plank",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/95023.png",
+        "url": "https://www.dofus.com/en/mmorpg/encyclopedia/resources/16499-rescue-board",
+        "description": "This board has saved innumerable lives, especially at sea.",
+        "recipe": [
+            {
+                "Ebony Wood": {
+                    "ankamaId": 449,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/449-ebony-wood",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/38073.w48h48.png",
+                    "type": "Wood",
+                    "level": 140,
+                    "quantity": 10
+                }
+            },
+            {
+                "Elm Wood": {
+                    "ankamaId": 470,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/470-elm-wood",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/38140.w48h48.png",
+                    "type": "Wood",
+                    "level": 180,
+                    "quantity": 10
+                }
+            },
+            {
+                "Hornbeam Wood": {
+                    "ankamaId": 472,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/472-hornbeam-wood",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/38138.w48h48.png",
+                    "type": "Wood",
+                    "level": 160,
+                    "quantity": 10
+                }
+            },
+            {
+                "Holy Bamboo Wood": {
+                    "ankamaId": 7014,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/7014-holy-bamboo-wood",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/38671.w48h48.png",
+                    "type": "Wood",
+                    "level": 190,
+                    "quantity": 10
+                }
+            },
+            {
+                "Dark Bamboo Wood": {
+                    "ankamaId": 7016,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/7016-dark-bamboo-wood",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/38672.w48h48.png",
+                    "type": "Wood",
+                    "level": 170,
+                    "quantity": 10
+                }
+            },
+            {
+                "Kaliptus Wood": {
+                    "ankamaId": 7925,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/7925-kaliptus-wood",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/38001.w48h48.png",
+                    "type": "Wood",
+                    "level": 150,
+                    "quantity": 10
+                }
+            },
+            {
+                "Aspen Wood": {
+                    "ankamaId": 11107,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/11107-aspen-wood",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/38677.w48h48.png",
+                    "type": "Wood",
+                    "level": 200,
+                    "quantity": 10
+                }
+            },
+            {
+                "Hazel Wood": {
+                    "ankamaId": 16488,
+                    "url": "https://www.dofus-touch.com/en/mmorpg/encyclopedia/resources/16488-hazel-wood",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/38143.w48h48.png",
+                    "type": "Wood",
+                    "level": 130,
+                    "quantity": 10
+                }
+            }
+        ]
+    }
+]
